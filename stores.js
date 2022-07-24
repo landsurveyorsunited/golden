@@ -690,7 +690,7 @@ const storeList = [
           "coordinates": [3.372558998709211, 6.519167190129313]
         },
         "properties": {
-          "name": "58. YABATECH",
+          "name": "58. OSCOE",
           "address": "Osun State College of Education, Ila-Orangun: +2348174855410, +2348035588210, +2348148110380, +2348115048431, registrar@oscotechesaoke.edu.ng",
           "phone": "+2348078960000"          
         }
