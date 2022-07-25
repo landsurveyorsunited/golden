@@ -91,7 +91,7 @@ const storeList = [
         },
         "properties": {
           "name": "8. NAUB",
-          "address": "NIGERIAN ARMY UNVERSITY BIU, BORNO STATE: +2348119719180, info@naub.edu.ng",
+          "address": "NIGERIAN ARMY UNIVERSITY BIU, BORNO STATE: +2348119719180, info@naub.edu.ng",
           "phone": "+2348078960000"          
         }
       },
