@@ -96,7 +96,7 @@ const baseMaps = {
 const overlayMaps = {
 "Open Street Map": OSM
 };
-const layerControl = L.control.layers (baseMaps, overlayMaps, {collapsed: true}).addTo(myMap);
+const layerControl = L.control.layers (baseMaps, overlayMaps, {collapsed: false}).addTo(myMap);
 
 //North Arrow
 var north = L.control({position: "topright"});
