@@ -1,2 +1,2 @@
 # GOLDENHEART007
- This Project Entails The Higher Institutions Offering Surveying and Geoinformatics Course in Nigeria
+ This is a WEB-GIS Showing Locations of Higher Institutions in Nigeria Offering Surveying and Geoinformatics Course.
