@@ -687,7 +687,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.372558998709211, 6.519167190129313]
+          "coordinates": [[4.940575355014366, 8.01860041672108]]
         },
         "properties": {
           "name": "58. OSCOE",
