@@ -718,6 +718,18 @@ const storeList = [
           "address": "NIGERIAN ARMY COLLEGE OF ENVIRONMENTAL SCIENCE & TECHNOLOGY MARKURDI, BENUE STATE: +2348000000000, +2348124624719, info@nacest.edu.ng, info@nacestmk.edu.ng",
           "phone": "+2348078960000"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.94942529, 7.84239294] 
+        },
+        "properties": {
+          "name": "61. XSN 07",
+          "address": "ROUNDABOUT: Federal School of Surveying Oyo, Oyo State: 604755.785mE, 866879.146mN, 309.972m",
+          "phone": "+2348078960000"          
+        }
       }
 ]
 
