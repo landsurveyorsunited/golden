@@ -7,7 +7,7 @@ const storeList = [
         },
         "properties": {
           "name": "1. ATBU",
-          "address": "Abubakar Tafawa Belewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
+          "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
           "phone": "+2348078960000"          
         }
       },
