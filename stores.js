@@ -711,7 +711,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [7.7644065344125535, 8.529964483849998]
+          "coordinates": [8.529964483849998, 7.7644065344125535]
         },
         "properties": {
           "name": "60. NACESTMK",
