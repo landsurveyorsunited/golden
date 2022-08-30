@@ -246,8 +246,8 @@ const storeList = [
           "coordinates": [7.393944114128105, 5.8232481258429205]
         },
         "properties": {
-          "name": "21. ASUST",
-          "address": "Abia State University of Science & Technology, Uturu: +2347066166857, registry@abiastateuniversity.edu.ng, pro@abiastateuniversity.edu.ng, support@abiastateuniversity.edu.ng, ics@abiastateuniversity.edu.ng",
+          "name": "21. ABSU",
+          "address": "Abia State University, Uturu: +2347066166857, registry@abiastateuniversity.edu.ng, pro@abiastateuniversity.edu.ng, support@abiastateuniversity.edu.ng, ics@abiastateuniversity.edu.ng",
           "phone": "+2348078960000"          
         }
       },
