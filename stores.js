@@ -910,6 +910,42 @@ const storeList = [
           "address": "840269.8185mN,	753262.8575mE,	374.5378m",
           "phone": "+2348078960000"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.459091, 6.430851] 
+        },
+        "properties": {
+          "name": "S.T.C",
+          "address": "St. Theresa Court.",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.45587130, 6.429747] 
+        },
+        "properties": {
+          "name": "1. A.B.C",
+          "address": "Ayo Babatunde Crescent",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.458698, 6.429831] 
+        },
+        "properties": {
+          "name": "B.D.E",
+          "address": "Black Diamond Engineering Limited, Ayo Babatunde Crescent, off Oniru Market, Lekki Phase 1, Ibeju-Lekki LGA, Lagos State. ",
+          "phone": "+2348078960000"          
+        }
       }
 ]
 
