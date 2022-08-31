@@ -116,8 +116,11 @@ L.control.betterscale({
     updateWhenIdle: !1
 }).addTo(myMap);
 
-//Realtime Geolocation
+//Realtime Geolocation I
 L.geolet({ position: 'topright' }).addTo(myMap);
+
+//Realtime Geolocation II
+L.control.locate({ position: 'bottomright'}).addTo(myMap);
 
 
 
