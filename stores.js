@@ -919,7 +919,7 @@ const storeList = [
         },
         "properties": {
           "name": "S.T.C",
-          "address": "St. Theresa Court.",
+          "address": "St. Theresa Court",
           "phone": "+2348078960000"          
         }
       },
@@ -927,10 +927,10 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.45587130, 6.429747] 
+          "coordinates": [3.457003, 6.430573] 
         },
         "properties": {
-          "name": "1. A.B.C",
+          "name": "A.B.C",
           "address": "Ayo Babatunde Crescent",
           "phone": "+2348078960000"          
         }
