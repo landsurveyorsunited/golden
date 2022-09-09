@@ -918,7 +918,7 @@ const storeList = [
           "coordinates": [3.459091, 6.430851] 
         },
         "properties": {
-          "name": "S.T.C",
+          "name": "62. S.T.C",
           "address": "St. Theresa Court",
           "phone": "+2348078960000"          
         }
@@ -930,7 +930,7 @@ const storeList = [
           "coordinates": [3.457003, 6.430573] 
         },
         "properties": {
-          "name": "A.B.C",
+          "name": "63. A.B.C",
           "address": "Ayo Babatunde Crescent",
           "phone": "+2348078960000"          
         }
@@ -942,8 +942,8 @@ const storeList = [
           "coordinates": [3.458698, 6.429831] 
         },
         "properties": {
-          "name": "B.D.E",
-          "address": "Black Diamond Engineering Limited, Ayo Babatunde Crescent, off Oniru Market, Lekki Phase 1, Ibeju-Lekki LGA, Lagos State. ",
+          "name": "64. B.D.E",
+          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Ibeju-Lekki LGA, Lagos State. ",
           "phone": "+2348078960000"          
         }
       }
