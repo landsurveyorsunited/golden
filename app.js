@@ -1,4 +1,4 @@
-const myMap = L.map('map').setView([7.599272322717393, 5.3027765795680795], 15);  
+const myMap = L.map('map').setView([9.072264, 7.491302], 6);  
 const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 const attribution =
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>&mdash;<a>GoldenHeart_007</a>'
@@ -48,15 +48,15 @@ const shopsLayer = L.geoJSON(storeList, {
     onEachFeature: onEachFeature,
     pointToLayer: function(feature, latlng) {
         return L.shapeMarker(latlng, {
-					shape: "triangle",
-					rotation: 180,
-       fillColor: "blue",
-			   fillOpacity: 0.9,
-		   	color: "blue",
-       radius: "5"
+	shape: "triangle",
+	rotation: 180,
+        fillColor: "blue",
+        fillOpacity: 0.9,
+	color: "blue",
+        radius: "5"
 })
-			}
-				});shopsLayer.addTo(myMap);
+}
+});shopsLayer.addTo(myMap);
 
 function flyToStore(store) {
     const lat = store.geometry.coordinates[1]; 
@@ -122,13 +122,15 @@ L.control.betterscale({
     updateWhenIdle: !1
 }).addTo(myMap);
 
-//Realtime Geolocation
-L.geolet({ position: 'bottomright'}).addTo(myMap);
+//Realtime Geolocation I
+L.geolet({ position: 'bottomright' }).addTo(myMap);
 
-//Distance and Bearing Measurement
-L.control.ruler().addTo(myMap);
-
-//location control
+//Realtime Geolocation II
 L.control.locate({ position: 'topright'}).addTo(myMap);
+
+
+
+
+
 
 
