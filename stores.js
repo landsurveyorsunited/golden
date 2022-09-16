@@ -915,11 +915,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.459091, 6.430851] 
+          "coordinates": [3.424445, 6.456236] 
         },
         "properties": {
-          "name": "62. S.T.C",
-          "address": "St. Theresa Court",
+          "name": "62. DAVINCI",
+          "address": "Oba Adeyinka Oyekan Avenue, Ikoyi",
           "phone": "+2348078960000"          
         }
       },
@@ -943,7 +943,7 @@ const storeList = [
         },
         "properties": {
           "name": "64. BDEL",
-          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Lagos State. ",
+          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State. ",
           "phone": "+2348078960000"          
         }
       }
