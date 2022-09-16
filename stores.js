@@ -719,102 +719,7 @@ const storeList = [
           "phone": "+2348078960000"          
         }
       },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.94942529, 7.84239294] 
-        },
-        "properties": {
-          "name": "61. XSN 07",
-          "address": "ROUNDABOUT: Federal School of Surveying Oyo, Oyo State: 604755.785mE, 866879.146mN, 309.972m",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.3027765795680795, 7.599272322717393]
-        },
-        "properties": {
-          "name": "FEDPOLAD",
-          "address": "Federal Polytechnic Ado-Ekiti, Ekiti State",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.25832440601903, 7.6108718185793]
-        },
-        "properties": {
-          "name": "1. FGPEKY036",
-          "address": "841810.329mN, 749248.739mE, 384.438m",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.29542461489063, 7.59531080851688]
-        },
-        "properties": {
-          "name": "2. FPA18S",
-          "address": "840110.2916mN, 753353.2064mE, 375.7479m",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.2951697653106, 7.59389532236252]
-        },
-        "properties": {
-          "name": "3. GPS 1806",
-          "address": "839953.5393mN, 753325.9028mE,	375.2828m",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.29637049038158, 7.59281462693299]
-        },
-        "properties": {
-          "name": "4. FPA 015S",
-          "address": "839902.9393mN, 753459.0863mE,	372.8291m",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.29895963574373, 7.59038567191276]
-        },
-        "properties": {
-          "name": "5. FPA 08S",
-          "address": "839834.678mN,	753746.3325mE,	371.6256m",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.2982128590538, 7.59038962267618]
-        },
-        "properties": {
-          "name": "6. FPA 10S",
-          "address": "839567.4636mN,	753663.8915mE,	373.3617m",
-          "phone": "+2348078960000"          
-        }
-      },
+      
       {
         "type": "Feature",
         "geometry": {
@@ -822,8 +727,8 @@ const storeList = [
           "coordinates": [5.30142257299561, 7.588965288607]
         },
         "properties": {
-          "name": "7. FPA 17S",
-          "address": "839411.7605mN,	754019.0572mE,	362.2646m",
+          "name": "BDEL 1",
+          "address": "XXX",
           "phone": "+2348078960000"          
         }
       },
@@ -831,11 +736,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.30241348342097, 7.59108743298444]
+          "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "8. FPA 04S",
-          "address": "839647.1272mN,	754127.2002mE,	368.437m",
+          "name": "BDEL 2",
+          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State. ",
           "phone": "+2348078960000"          
         }
       },
@@ -846,7 +751,7 @@ const storeList = [
           "coordinates": [5.29926381697986, 7.59439927562371]
         },
         "properties": {
-          "name": "9. FPA 001T",
+          "name": "1. XXX",
           "address": "840011.6906mN,	753777.5562mE,	372.3263m",
           "phone": "+2348078960000"          
         }
@@ -932,18 +837,6 @@ const storeList = [
         "properties": {
           "name": "8. MGM",
           "address": "Megamound Estate Avenue",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.458820, 6.430789] 
-        },
-        "properties": {
-          "name": "64. BDEL 2",
-          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State. ",
           "phone": "+2348078960000"          
         }
       }
