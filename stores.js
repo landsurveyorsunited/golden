@@ -927,11 +927,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.457003, 6.430573] 
+          "coordinates": [3.561373, 6.436801] 
         },
         "properties": {
-          "name": "63. A.B.C",
-          "address": "Ayo Babatunde Crescent",
+          "name": "63. MGM",
+          "address": "Megamound Estate Avenue",
           "phone": "+2348078960000"          
         }
       },
