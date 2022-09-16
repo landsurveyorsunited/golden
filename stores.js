@@ -855,11 +855,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.30053969921804, 7.59609344456245]
+          "coordinates": [3.523027, 6.477054]
         },
         "properties": {
-          "name": "10. FPA 001P",
-          "address": "840199.8744mN,	753917.4078mE,	371.9056m",
+          "name": "2. GRACEFIELD ISLAND",
+          "address": "The Helium Apartments and Boulevard: Gracefield Island(The Phoenix), Lekki",
           "phone": "+2348078960000"          
         }
       },
