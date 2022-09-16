@@ -867,11 +867,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29050840136738, 7.59925392855223]
+          "coordinates": [3.444992, 6.451758]
         },
         "properties": {
-          "name": "11. FPA13S",
-          "address": "840543.6677mN,	752808.1937mE,	373.1803m",
+          "name": "3. RUXTON",
+          "address": "The Address Homes: Ruxton Road, Lekki.",
           "phone": "+2348078960000"          
         }
       },
