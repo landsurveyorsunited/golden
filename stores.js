@@ -939,11 +939,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.458698, 6.429831] 
+          "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "64. B.D.E",
-          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Ibeju-Lekki LGA, Lagos State. ",
+          "name": "64. BDEL",
+          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Lagos State. ",
           "phone": "+2348078960000"          
         }
       }
