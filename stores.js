@@ -891,11 +891,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29451554735586, 7.5960166343893]
+          "coordinates": [3.466965, 6.447235]
         },
         "properties": {
-          "name": "13. GPS 18/008",
-          "address": "840187.8495mN,	753252.4398mE,	375.8631m",
+          "name": "5. ADM",
+          "address": "Admiralty Way, Cowebplus System Solutions, Lekki",
           "phone": "+2348078960000"          
         }
       },
