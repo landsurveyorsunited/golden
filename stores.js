@@ -748,11 +748,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29926381697986, 7.59439927562371]
+          "coordinates": [3.475347,6.447654]
         },
         "properties": {
-          "name": "1. XXX",
-          "address": "840011.6906mN,	753777.5562mE,	372.3263m",
+          "name": "1. BUKA HUT",
+          "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki.",
           "phone": "+2348078960000"          
         }
       },
@@ -800,7 +800,7 @@ const storeList = [
         },
         "properties": {
           "name": "5. ADMIRALTY",
-          "address": "Admiralty Way, Lekki",
+          "address": "The Hallmark: Admiralty Way, Lekki",
           "phone": "+2348078960000"          
         }
       },
