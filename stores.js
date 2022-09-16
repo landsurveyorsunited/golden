@@ -903,11 +903,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29461384881508, 7.59675700637484]
+          "coordinates": [3.480145, 6.458887]
         },
         "properties": {
-          "name": "14. FPA1540",
-          "address": "840269.8185mN,	753262.8575mE,	374.5378m",
+          "name": "6. CASTEMP",
+          "address": "Tesmot Cl, Eti-Osa, Lekki.",
           "phone": "+2348078960000"          
         }
       },
@@ -918,7 +918,7 @@ const storeList = [
           "coordinates": [3.424445, 6.456236] 
         },
         "properties": {
-          "name": "62. DAVINCI",
+          "name": "7. DAVINCI",
           "address": "Oba Adeyinka Oyekan Avenue, Ikoyi",
           "phone": "+2348078960000"          
         }
@@ -930,7 +930,7 @@ const storeList = [
           "coordinates": [3.561373, 6.436801] 
         },
         "properties": {
-          "name": "63. MGM",
+          "name": "8. MGM",
           "address": "Megamound Estate Avenue",
           "phone": "+2348078960000"          
         }
@@ -942,7 +942,7 @@ const storeList = [
           "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "64. BDEL",
+          "name": "64. BDEL 2",
           "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State. ",
           "phone": "+2348078960000"          
         }
