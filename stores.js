@@ -879,11 +879,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29324258104437, 7.59711892214131]
+          "coordinates": [3.448884, 6.447349]
         },
         "properties": {
-          "name": "12. FPA 15S",
-          "address": "840309.0576mN,	753111.2703mE,	374.8307m",
+          "name": "4. MILVERTON",
+          "address": "The Address Homes: Milverton Road, Lekki.",
           "phone": "+2348078960000"          
         }
       },
@@ -894,8 +894,8 @@ const storeList = [
           "coordinates": [3.466965, 6.447235]
         },
         "properties": {
-          "name": "5. ADM",
-          "address": "Admiralty Way, Cowebplus System Solutions, Lekki",
+          "name": "5. ADMIRALTY",
+          "address": "Admiralty Way, Lekki",
           "phone": "+2348078960000"          
         }
       },
@@ -907,7 +907,7 @@ const storeList = [
         },
         "properties": {
           "name": "6. CASTEMP",
-          "address": "Tesmot Cl, Eti-Osa, Lekki.",
+          "address": "Tesmot Cl, Lekki.",
           "phone": "+2348078960000"          
         }
       },
