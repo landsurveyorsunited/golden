@@ -724,11 +724,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.30142257299561, 7.588965288607]
+          "coordinates": [3.447964, 6.424251]
         },
         "properties": {
           "name": "BDEL 1",
-          "address": "XXX",
+          "address": "Plot 8, Water Cooperation Drive, Victoria Island, Lagos",
           "phone": "+2348078960000"          
         }
       },
