@@ -123,10 +123,10 @@ L.control.betterscale({
 }).addTo(myMap);
 
 //Realtime Geolocation I
-L.geolet({ position: 'bottomright' }).addTo(myMap);
+L.geolet({ position: 'topright' }).addTo(myMap);
 
 //Realtime Geolocation II
-L.control.locate({ position: 'topright'}).addTo(myMap);
+L.control.locate({ position: 'bottomright'}).addTo(myMap);
 
 
 
