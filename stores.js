@@ -740,7 +740,7 @@ const storeList = [
         },
         "properties": {
           "name": "BDEL 2",
-          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State. ",
+          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos.",
           "phone": "+2348078960000"          
         }
       },
@@ -752,7 +752,7 @@ const storeList = [
         },
         "properties": {
           "name": "1. BUKA HUT",
-          "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki.",
+          "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos",
           "phone": "+2348078960000"          
         }
       },
@@ -764,7 +764,7 @@ const storeList = [
         },
         "properties": {
           "name": "2. GRACEFIELD ISLAND",
-          "address": "The Helium Apartments and Boulevard: Gracefield Island(The Phoenix), Lekki",
+          "address": "The Helium Apartments and Boulevard: Gracefield Island(The Phoenix), Lekki, Lagos",
           "phone": "+2348078960000"          
         }
       },
@@ -776,7 +776,7 @@ const storeList = [
         },
         "properties": {
           "name": "3. RUXTON",
-          "address": "The Address Homes: Ruxton Road, Lekki.",
+          "address": "The Address Homes: Ruxton Road, Lekki, Lagos",
           "phone": "+2348078960000"          
         }
       },
@@ -788,7 +788,7 @@ const storeList = [
         },
         "properties": {
           "name": "4. MILVERTON",
-          "address": "The Address Homes: Milverton Road, Lekki.",
+          "address": "The Address Homes: Milverton Road, Lekki, Lagos.",
           "phone": "+2348078960000"          
         }
       },
@@ -800,7 +800,7 @@ const storeList = [
         },
         "properties": {
           "name": "5. ADMIRALTY",
-          "address": "The Hallmark: Admiralty Way, Lekki",
+          "address": "The Hallmark: Admiralty Way, Lekki, Lagos",
           "phone": "+2348078960000"          
         }
       },
@@ -812,7 +812,7 @@ const storeList = [
         },
         "properties": {
           "name": "6. CASTEMP",
-          "address": "Tesmot Cl, Lekki.",
+          "address": "Tesmot Cl, Lekki, Lagos.",
           "phone": "+2348078960000"          
         }
       },
@@ -824,7 +824,7 @@ const storeList = [
         },
         "properties": {
           "name": "7. DAVINCI",
-          "address": "Oba Adeyinka Oyekan Avenue, Ikoyi",
+          "address": "Oba Adeyinka Oyekan Avenue, Ikoyi, Lagos",
           "phone": "+2348078960000"          
         }
       },
@@ -836,7 +836,43 @@ const storeList = [
         },
         "properties": {
           "name": "8. MGM",
-          "address": "Megamound Estate Avenue",
+          "address": "Megamound Estate Avenue, Lagos",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.453880, 6.464622] 
+        },
+        "properties": {
+          "name": "9. BANANA",
+          "address": "Near 5th Avenue, Banana Island, Lagos",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.450971, 6.461783] 
+        },
+        "properties": {
+          "name": "10. DAN",
+          "address": "Dan & Dan: Ajegunle Ojo, Ikoyi, Lagos",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.449308, 6.428272] 
+        },
+        "properties": {
+          "name": "11. ABISOGUN",
+          "address": "Abisogun Road, Lagos",
           "phone": "+2348078960000"          
         }
       }
