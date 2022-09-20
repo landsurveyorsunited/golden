@@ -875,6 +875,18 @@ const storeList = [
           "address": "Abisogun Road, Lagos",
           "phone": "+2348078960000"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.446147, 6.431307] 
+        },
+        "properties": {
+          "name": "12. ZEN",
+          "address": "Zenko Apartment, Simeon Akinlolu Crescent, Oniru, Lekki, Lagos",
+          "phone": "+2348078960000"          
+        }
       }
 ]
 
