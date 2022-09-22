@@ -719,19 +719,6 @@ const storeList = [
           "phone": "+2348078960000"          
         }
       },
-      
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.447964, 6.424251]
-        },
-        "properties": {
-          "name": "BDEL 1",
-          "address": "Plot 8, Water Cooperation Drive, Victoria Island, Lagos",
-          "phone": "+2348078960000"          
-        }
-      },
       {
         "type": "Feature",
         "geometry": {
@@ -739,8 +726,8 @@ const storeList = [
           "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "BDEL 2",
-          "address": "Black Diamond Engineering Limited. 13, Ayo Babatunde Crescent, off Oniru Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos.",
+          "name": "B.D.E.L",
+          "address": "Black Diamond Engineering Limited: 13a, Ladejola's Court, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos.",
           "phone": "+2348078960000"          
         }
       },
