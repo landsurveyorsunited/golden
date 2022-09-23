@@ -115,7 +115,7 @@ north.addTo(myMap);
 
 //Leaflet Scalebar
 L.control.betterscale({
-    position: "bottomleft",
+    position: "bottomright",
     maxWidth: 150,
     imperial: false,
     metric: true,
