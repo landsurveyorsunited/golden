@@ -102,7 +102,7 @@ const baseMaps = {
 const overlayMaps = {
 "Open Street Map": OSM
 };
-const layerControl = L.control.layers (baseMaps, overlayMaps, {collapsed: false}).addTo(myMap);
+const layerControl = L.control.layers (baseMaps, overlayMaps, {collapsed: true}).addTo(myMap);
 
 //North Arrow
 var north = L.control({position: "topright"});
@@ -115,7 +115,7 @@ north.addTo(myMap);
 
 //Leaflet Scalebar
 L.control.betterscale({
-    position: "topleft",
+    position: "bottomleft",
     maxWidth: 150,
     imperial: false,
     metric: true,
@@ -126,7 +126,7 @@ L.control.betterscale({
 L.geolet({ position: 'topright' }).addTo(myMap);
 
 //Realtime Geolocation II
-L.control.locate({ position: 'topleft'}).addTo(myMap);
+L.control.locate({ position: 'topright'}).addTo(myMap);
 
 
 
