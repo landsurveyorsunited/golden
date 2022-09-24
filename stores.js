@@ -874,6 +874,18 @@ const storeList = [
           "address": "Zenko Apartment, Simeon Akinlolu Crescent, Oniru, Lekki, Lagos",
           "phone": "+2348078960000"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.418739, 6.443521]
+        },
+        "properties": {
+          "name": "13. LOLADE",
+          "address": "Beside Angels and Muse, Sumbo Jibowu Street, Ikoyi, Lagos",
+          "phone": "+2348078960000"          
+        }
       }
 ]
 
