@@ -15,7 +15,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.166862, 7.249223]
+          "coordinates": [5.161886, 7.243825]
         },
         "properties": {
           "name": "2. ONDO STATE, AKURE",
