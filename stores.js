@@ -3,6 +3,30 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [6.984463, 4.864476]
+        },
+        "properties": {
+          "name": "1. RIVERS STATE, PORTHARCOURT",
+          "address": "Temple of Eck Eck Centre, Obi Wali Road, Trans-Amadi, Rumuigbo, Port Harcourt.   templeofeckeckcentres@eckankarnigeria.org  ESEZI ISAAC OBIOLOR",
+          "phone": "+2348033132175"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.166862, 7.249223]
+        },
+        "properties": {
+          "name": "2. ONDO STATE, AKURE",
+          "address": "No 1, Odufuwa Lane, Ajipowo Community, off Ondo Road, Akure Ondo State.  akureeckcentres@eckankarnigeria.org  AARINOLA AKINSETE",
+          "phone": "+2348189117171"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
