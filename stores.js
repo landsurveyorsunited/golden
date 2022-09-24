@@ -30,7 +30,7 @@ const storeList = [
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
-          "name": "1. ATBU",
+          "name": "SURVEYING INSTITUTIONS IN NIGERIA — 1. ATBU",
           "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
           "phone": "+2348078960000"          
         }
@@ -751,7 +751,7 @@ const storeList = [
         },
         "properties": {
           "name": "B.D.E.L",
-          "address": "Black Diamond Engineering Limited: 13a, Ladejola's Court, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos.",
+          "address": "Black Diamond Engineering Limited: 13a, Ladejola's Court, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -762,8 +762,8 @@ const storeList = [
           "coordinates": [3.475347,6.447654]
         },
         "properties": {
-          "name": "1. BUKA HUT",
-          "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos",
+          "name": "1. BUKA HUT SITE",
+          "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -774,8 +774,8 @@ const storeList = [
           "coordinates": [3.523027, 6.477054]
         },
         "properties": {
-          "name": "2. GRACEFIELD ISLAND",
-          "address": "The Helium Apartments and Boulevard: Gracefield Island(The Phoenix), Lekki, Lagos",
+          "name": "2. GRACEFIELD ISLAND SITE",
+          "address": "The Helium Apartments and Boulevard: Gracefield Island(The Phoenix), Lekki, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -786,8 +786,8 @@ const storeList = [
           "coordinates": [3.444992, 6.451758]
         },
         "properties": {
-          "name": "3. RUXTON",
-          "address": "The Address Homes: Ruxton Road, Lekki, Lagos",
+          "name": "3. RUXTON SITE",
+          "address": "The Address Homes: Ruxton Road, Lekki, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -798,8 +798,8 @@ const storeList = [
           "coordinates": [3.448884, 6.447349]
         },
         "properties": {
-          "name": "4. MILVERTON",
-          "address": "The Address Homes: Milverton Road, Lekki, Lagos.",
+          "name": "4. MILVERTON SITE",
+          "address": "The Address Homes: Milverton Road, Lekki, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -810,8 +810,8 @@ const storeList = [
           "coordinates": [3.466965, 6.447235]
         },
         "properties": {
-          "name": "5. ADMIRALTY",
-          "address": "The Hallmark: Admiralty Way, Lekki, Lagos",
+          "name": "5. ADMIRALTY SITE",
+          "address": "The Hallmark: Admiralty Way, Lekki, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -822,8 +822,8 @@ const storeList = [
           "coordinates": [3.480145, 6.458887]
         },
         "properties": {
-          "name": "6. CASTEMP",
-          "address": "Tesmot Cl, Lekki, Lagos.",
+          "name": "6. CASTLE TEMP SITE",
+          "address": "Castle and Temp, Tesmot Cl, Lekki, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -834,8 +834,8 @@ const storeList = [
           "coordinates": [3.424445, 6.456236] 
         },
         "properties": {
-          "name": "7. DAVINCI",
-          "address": "Oba Adeyinka Oyekan Avenue, Ikoyi, Lagos",
+          "name": "7. DAVINCI SITE",
+          "address": "Oba Adeyinka Oyekan Avenue, Ikoyi, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -846,8 +846,8 @@ const storeList = [
           "coordinates": [3.561373, 6.436801] 
         },
         "properties": {
-          "name": "8. MGM",
-          "address": "Megamound Estate Avenue, Lagos",
+          "name": "8. MGM SITE",
+          "address": "Megamound Estate Avenue, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -859,7 +859,7 @@ const storeList = [
         },
         "properties": {
           "name": "9. BANANA",
-          "address": "Near 5th Avenue, Banana Island, Lagos",
+          "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -870,8 +870,8 @@ const storeList = [
           "coordinates": [3.450971, 6.461783] 
         },
         "properties": {
-          "name": "10. DAN",
-          "address": "Dan & Dan: Ajegunle Ojo, Ikoyi, Lagos",
+          "name": "10. DAN & DAN SITE",
+          "address": "Dan & Dan: Ajegunle Ojo, Ikoyi, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -882,8 +882,8 @@ const storeList = [
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
-          "name": "11. ABISOGUN",
-          "address": "Abisogun Road, Lagos",
+          "name": "11. ABISOGUN SITE",
+          "address": "Abisogun Road, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -894,8 +894,8 @@ const storeList = [
           "coordinates": [3.446147, 6.431307] 
         },
         "properties": {
-          "name": "12. ZEN",
-          "address": "Zenko Apartment, Simeon Akinlolu Crescent, Oniru, Lekki, Lagos",
+          "name": "12. ZENKO SITE",
+          "address": "Zenko Apartment, Simeon Akinlolu Crescent, Oniru, Lekki, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
@@ -906,8 +906,8 @@ const storeList = [
           "coordinates": [3.418739, 6.443521]
         },
         "properties": {
-          "name": "13. LOLADE",
-          "address": "Beside Angels and Muse, Sumbo Jibowu Street, Ikoyi, Lagos",
+          "name": "13. LOLADE SITE",
+          "address": "Beside Angels and Muse, Sumbo Jibowu Street, Ikoyi, Lagos State.",
           "phone": "+2348078960000"          
         }
       }
