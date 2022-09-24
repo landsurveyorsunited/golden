@@ -108,7 +108,7 @@ north.addTo(myMap);
 
 //Leaflet Scalebar
 L.control.betterscale({
-    position: "bottomright",
+    position: "topleft",
     maxWidth: 150,
     imperial: false,
     metric: true,
@@ -116,7 +116,7 @@ L.control.betterscale({
 }).addTo(myMap);
 
 //Realtime Geolocation I
-L.geolet({ position: 'topright' }).addTo(myMap);
+L.geolet({ position: 'bottomright' }).addTo(myMap);
 
 //Realtime Geolocation II
 L.control.locate({ position: 'topright'}).addTo(myMap);
