@@ -719,7 +719,8 @@ const storeList = [
           "phone": "+2348078960000"          
         }
       },
- "type": "Feature",
+      {
+        "type": "Feature",
         "geometry": {
           "type": "Point",
           "coordinates": [6.984463, 4.864476]
