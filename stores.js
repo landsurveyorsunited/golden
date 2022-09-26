@@ -1,28 +1,4 @@
 const storeList = [
-    {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [6.984463, 4.864476]
-        },
-        "properties": {
-          "name": "1. RIVERS STATE, PORTHARCOURT",
-          "address": "Temple of Eck Eck Centre, Obi Wali Road, Trans-Amadi, Rumuigbo, Port Harcourt.   templeofeckeckcentres@eckankarnigeria.org  ESEZI ISAAC OBIOLOR",
-          "phone": "+2348033132175"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.161886, 7.243825]
-        },
-        "properties": {
-          "name": "2. ONDO STATE, AKURE",
-          "address": "No 1, Odufuwa Lane, Ajipowo Community, off Ondo Road, Akure Ondo State.  akureeckcentres@eckankarnigeria.org  AARINOLA AKINSETE",
-          "phone": "+2348189117171"          
-        }
-      },
       {
         "type": "Feature",
         "geometry": {
@@ -30,7 +6,7 @@ const storeList = [
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
-          "name": "SURVEYING INSTITUTIONS IN NIGERIA — 1. ATBU",
+          "name": "1. ATBU",
           "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
           "phone": "+2348078960000"          
         }
@@ -115,7 +91,7 @@ const storeList = [
         },
         "properties": {
           "name": "8. NAUB",
-          "address": "NIGERIAN ARMY UNIVERSITY BIU, BORNO STATE: +2348119719180, info@naub.edu.ng",
+          "address": "Nigerian Army University Biu, Borno State: +2348119719180, info@naub.edu.ng",
           "phone": "+2348078960000"          
         }
       },
@@ -151,7 +127,7 @@ const storeList = [
         },
         "properties": {
           "name": "11. UNIBEN",
-          "address": "11.	University of Benin Benin-City, Edo State: +2348010030050, registrar@uniben.edu.ng",
+          "address": "11. University of Benin Benin-City, Edo State: +2348010030050, registrar@uniben.edu.ng",
           "phone": "+2348078960000"          
         }
       },
@@ -739,8 +715,31 @@ const storeList = [
         },
         "properties": {
           "name": "60. NACESTMK",
-          "address": "NIGERIAN ARMY COLLEGE OF ENVIRONMENTAL SCIENCE & TECHNOLOGY MARKURDI, BENUE STATE: +2348000000000, +2348124624719, info@nacest.edu.ng, info@nacestmk.edu.ng",
+          "address": "Nigerian Army College of Environmental Science & Technology Markurdi, Benue State: +2348000000000, +2348124624719, info@nacest.edu.ng, info@nacestmk.edu.ng",
           "phone": "+2348078960000"          
+        }
+      },
+ "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [6.984463, 4.864476]
+        },
+        "properties": {
+          "name": "ECK TEMPLE",
+          "address": "Temple of Eck Eck Centre, Obi Wali Road, Trans-Amadi, Rumuigbo, Port Harcourt.   templeofeckeckcentres@eckankarnigeria.org  ESEZI ISAAC OBIOLOR",
+          "phone": "+2348033132175"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.161886, 7.243825]
+        },
+        "properties": {
+          "name": "ECK CENTRE",
+          "address": "No 1, Odufuwa Lane, Ajipowo Community, off Ondo Road, Akure Ondo State.  akureeckcentres@eckankarnigeria.org  AARINOLA AKINSETE",
+          "phone": "+2348189117171"          
         }
       },
       {
@@ -763,7 +762,7 @@ const storeList = [
         },
         "properties": {
           "name": "OFFICE",
-          "address": "Black Diamond Engineering Limited: 13a, Ladejola's Court, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State.",
+          "address": "Black Diamond Engineering Company Limited: Ladejola's Court,13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State.",
           "phone": "+2348078960000"          
         }
       },
