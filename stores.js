@@ -922,6 +922,30 @@ const storeList = [
           "address": "Beside Angels and Muse, Sumbo Jibowu Street, Ikoyi, Lagos State.",
           "phone": "+2348078960000"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.453789, 6.461418] 
+        },
+        "properties": {
+          "name": "14. BANANA ISLAND 2",
+          "address": "Mohjid_J5 Site: 203 Close, Banana Island, Lagos State.",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.432890, 6.458985]
+        },
+        "properties": {
+          "name": "15. SITE: GERRAD",
+          "address": "PM Site: Gerrad Road, Opposite The Gardens, Ikoji, Lagos State.",
+          "phone": "+2348078960000"          
+        }
       }
 ]
 
