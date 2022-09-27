@@ -946,6 +946,18 @@ const storeList = [
           "address": "PM Site: Gerrad Road, Opposite The Gardens, Ikoji, Lagos State.",
           "phone": "+2348078960000"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.392443, 580892]
+        },
+        "properties": {
+          "name": "16. SITE: OGUDU MAINLAND",
+          "address": "Near HeyDen Petrol Station–Beside Chicken Republic, Ogudu, Lagos Mainland, Lagos State.",
+          "phone": "+2348078960000"          
+        }
       }
 ]
 
