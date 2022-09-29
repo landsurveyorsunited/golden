@@ -750,7 +750,7 @@ const storeList = [
           "coordinates": [3.233625, 6.559527]
         },
         "properties": {
-          "name": "HOME",
+          "name": "ABODE",
           "address": "Flat 23, Shorinola Street, off Modina Road, Igando/Egan, Lagos State.",
           "phone": "+2348078960000"          
         }
@@ -762,7 +762,7 @@ const storeList = [
           "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "OFFICE",
+          "name": "CAMP",
           "address": "Black Diamond Engineering Company Limited: Ladejola's Court,13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State.",
           "phone": "+2348078960000"          
         }
@@ -956,6 +956,18 @@ const storeList = [
         "properties": {
           "name": "16. SITE: OGUDU MAINLAND",
           "address": "Near HeyDen Petrol Station–Beside Chicken Republic, Ogudu, Lagos Mainland, Lagos State.",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.480609, 6.454435]
+        },
+        "properties": {
+          "name": "17. SITE: ISLAND",
+          "address": "Near Chief Gbolahan Owolabi Street, Lekki–Ikate, Lagos State.",
           "phone": "+2348078960000"          
         }
       }
