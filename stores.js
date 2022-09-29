@@ -783,7 +783,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.523027, 6.477054]
+          "coordinates": [3.522151, 6.477366]
         },
         "properties": {
           "name": "2. SITE: GRACEFIELD ISLAND",
@@ -870,7 +870,7 @@ const storeList = [
           "coordinates": [3.453880, 6.464622] 
         },
         "properties": {
-          "name": "9. SITE: BANANA ISLAND",
+          "name": "9. SITE: BANANA ISLAND (1)",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348078960000"          
         }
@@ -930,7 +930,7 @@ const storeList = [
           "coordinates": [3.453789, 6.461418] 
         },
         "properties": {
-          "name": "14. BANANA ISLAND 2",
+          "name": "14. BANANA ISLAND (2)",
           "address": "Mohjid_J5 Site: 203 Close, Banana Island, Lagos State.",
           "phone": "+2348078960000"          
         }
