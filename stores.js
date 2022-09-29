@@ -963,11 +963,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.480609, 6.454435]
+          "coordinates": [3.477426, 6.462765]
         },
         "properties": {
-          "name": "17. SITE: ISLAND",
-          "address": "Near Chief Gbolahan Owolabi Street, Lekki–Ikate, Lagos State.",
+          "name": "17. SITE: ORANGE ISLAND",
+          "address": "Orange Island Road, Near Chief Gbolahan Owolabi Street, Lekki–Ikate, Lagos State.",
           "phone": "+2348078960000"          
         }
       }
