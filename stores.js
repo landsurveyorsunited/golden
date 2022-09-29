@@ -951,7 +951,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.392443, 580892]
+          "coordinates": [3.392443, 6.580892]
         },
         "properties": {
           "name": "16. SITE: OGUDU MAINLAND",
