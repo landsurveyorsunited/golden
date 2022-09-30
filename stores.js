@@ -691,7 +691,7 @@ const storeList = [
         },
         "properties": {
           "name": "58. OSCOE",
-          "address": "Osun State College of Education, Ila-Orangun: +2348174855410, +2348035588210, +2348148110380, +2348115048431, registrar@oscotechesaoke.edu.ng",
+          "address": "Osun State College of Technology, Esa-Oke, Osun State: +2348174855410, +2348035588210, +2348148110380, +2348115048431, registrar@oscotechesaoke.edu.ng",
           "phone": "+2348078960000"          
         }
       },
