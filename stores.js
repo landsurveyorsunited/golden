@@ -3,18 +3,6 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29930375, 7.59434823]
-        },
-        "properties": {
-          "name": "FPA 001T (1)",
-          "address": "Federal Polytechnic Ado-Ekiti, Ekiti State",
-          "phone": "+2348078960000"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
           "coordinates": [5.25832440601903, 7.6108718185793]
         },
         "properties": {
