@@ -3,6 +3,198 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [5.29930375, 7.59434823]
+        },
+        "properties": {
+          "name": "FPA 001T (1)",
+          "address": "Federal Polytechnic Ado-Ekiti, Ekiti State",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.25832440601903, 7.6108718185793]
+        },
+        "properties": {
+          "name": "1. FGPEKY036",
+          "address": "841810.329mN, 749248.739mE, 384.438m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29542461489063, 7.59531080851688]
+        },
+        "properties": {
+          "name": "2. FPA18S",
+          "address": "840110.2916mN, 753353.2064mE, 375.7479m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.2951697653106, 7.59389532236252]
+        },
+        "properties": {
+          "name": "3. GPS 1806",
+          "address": "839953.5393mN, 753325.9028mE,	375.2828m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29637049038158, 7.59281462693299]
+        },
+        "properties": {
+          "name": "4. FPA 015S",
+          "address": "839902.9393mN, 753459.0863mE,	372.8291m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29895963574373, 7.59038567191276]
+        },
+        "properties": {
+          "name": "5. FPA 08S",
+          "address": "839834.678mN,	753746.3325mE,	371.6256m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.2982128590538, 7.59038962267618]
+        },
+        "properties": {
+          "name": "6. FPA 10S",
+          "address": "839567.4636mN,	753663.8915mE,	373.3617m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.30142257299561, 7.588965288607]
+        },
+        "properties": {
+          "name": "7. FPA 17S",
+          "address": "839411.7605mN,	754019.0572mE,	362.2646m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.30241348342097, 7.59108743298444]
+        },
+        "properties": {
+          "name": "8. FPA 04S",
+          "address": "839647.1272mN,	754127.2002mE,	368.437m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29926381697986, 7.59439927562371]
+        },
+        "properties": {
+          "name": "9. FPA 001T",
+          "address": "840011.6906mN,	753777.5562mE,	372.3263m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.30053969921804, 7.59609344456245]
+        },
+        "properties": {
+          "name": "10. FPA 001P",
+          "address": "840199.8744mN,	753917.4078mE,	371.9056m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29050840136738, 7.59925392855223]
+        },
+        "properties": {
+          "name": "11. FPA13S",
+          "address": "840543.6677mN,	752808.1937mE,	373.1803m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29324258104437, 7.59711892214131]
+        },
+        "properties": {
+          "name": "12. FPA 15S",
+          "address": "840309.0576mN,	753111.2703mE,	374.8307m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29451554735586, 7.5960166343893]
+        },
+        "properties": {
+          "name": "13. GPS 18/008",
+          "address": "840187.8495mN,	753252.4398mE,	375.8631m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29461384881508, 7.59675700637484]
+        },
+        "properties": {
+          "name": "14. FPA1540",
+          "address": "840269.8185mN,	753262.8575mE,	374.5378m",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.3986, 9.0765]
+        },
+        "properties": {
+          "name": "SURVEYING & GEOINFORMATICS INSTITUTIONS (1-60)",
+          "address": "Federal Republic of Nigeria",
+          "phone": "+2348078960000"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
