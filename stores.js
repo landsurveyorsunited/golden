@@ -166,7 +166,7 @@ const storeList = [
           "address": "840269.8185mN,	753262.8575mE,	374.5378m",
           "phone": "+2348105596815"          
         }
-      }
+      },
       {
         "type": "Feature",
         "geometry": {
