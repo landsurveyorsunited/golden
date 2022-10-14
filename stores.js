@@ -8,7 +8,7 @@ const storeList = [
         "properties": {
           "name": "1. FGPEKY036",
           "address": "841810.329mN, 749248.739mE, 384.438m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -20,7 +20,7 @@ const storeList = [
         "properties": {
           "name": "2. FPA18S",
           "address": "840110.2916mN, 753353.2064mE, 375.7479m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -32,7 +32,7 @@ const storeList = [
         "properties": {
           "name": "3. GPS 1806",
           "address": "839953.5393mN, 753325.9028mE,	375.2828m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -44,7 +44,7 @@ const storeList = [
         "properties": {
           "name": "4. FPA 015S",
           "address": "839902.9393mN, 753459.0863mE,	372.8291m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -56,7 +56,7 @@ const storeList = [
         "properties": {
           "name": "5. FPA 08S",
           "address": "839834.678mN,	753746.3325mE,	371.6256m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -68,7 +68,7 @@ const storeList = [
         "properties": {
           "name": "6. FPA 10S",
           "address": "839567.4636mN,	753663.8915mE,	373.3617m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -80,7 +80,7 @@ const storeList = [
         "properties": {
           "name": "7. FPA 17S",
           "address": "839411.7605mN,	754019.0572mE,	362.2646m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -92,7 +92,7 @@ const storeList = [
         "properties": {
           "name": "8. FPA 04S",
           "address": "839647.1272mN,	754127.2002mE,	368.437m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -104,7 +104,7 @@ const storeList = [
         "properties": {
           "name": "9. FPA 001T",
           "address": "840011.6906mN,	753777.5562mE,	372.3263m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -116,7 +116,7 @@ const storeList = [
         "properties": {
           "name": "10. FPA 001P",
           "address": "840199.8744mN,	753917.4078mE,	371.9056m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -128,7 +128,7 @@ const storeList = [
         "properties": {
           "name": "11. FPA13S",
           "address": "840543.6677mN,	752808.1937mE,	373.1803m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -140,7 +140,7 @@ const storeList = [
         "properties": {
           "name": "12. FPA 15S",
           "address": "840309.0576mN,	753111.2703mE,	374.8307m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -152,7 +152,7 @@ const storeList = [
         "properties": {
           "name": "13. GPS 18/008",
           "address": "840187.8495mN,	753252.4398mE,	375.8631m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -164,7 +164,19 @@ const storeList = [
         "properties": {
           "name": "14. FPA1540",
           "address": "840269.8185mN,	753262.8575mE,	374.5378m",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.299330157, 7.594389418]
+        },
+        "properties": {
+          "name": "15. 001T",
+          "address": "840011.6571mN,	753777.7817mE,	372.3263m",
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -512,7 +524,7 @@ const storeList = [
         "properties": {
           "name": "28. FEDPOLYADO",
           "address": "Federal Polytechnic Ado-Ekiti, Ekiti State: +2347088335676, contactus@fedpolyado.edu.ng",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -932,7 +944,7 @@ const storeList = [
         "properties": {
           "name": "ABODE",
           "address": "Flat 23, Shorinola Street, off Modina Road, Igando/Egan, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -944,7 +956,7 @@ const storeList = [
         "properties": {
           "name": "CAMP",
           "address": "Black Diamond Engineering Company Limited: Ladejola's Court,13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -956,7 +968,7 @@ const storeList = [
         "properties": {
           "name": "1. SITE: BUKA HUT",
           "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -968,7 +980,7 @@ const storeList = [
         "properties": {
           "name": "2. SITE: GRACEFIELD ISLAND",
           "address": "The Helium Apartments and Boulevard: Gracefield Island(The Phoenix), Lekki, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -980,7 +992,7 @@ const storeList = [
         "properties": {
           "name": "3. SITE: RUXTON",
           "address": "The Address Homes: Ruxton Road, Lekki, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -992,7 +1004,7 @@ const storeList = [
         "properties": {
           "name": "4. SITE: MILVERTON",
           "address": "The Address Homes: Milverton Road, Lekki, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1004,7 +1016,7 @@ const storeList = [
         "properties": {
           "name": "5. SITE:ADMIRALTY",
           "address": "The Hallmark: Admiralty Way, Lekki, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1016,7 +1028,7 @@ const storeList = [
         "properties": {
           "name": "6. SITE: CASTLE TEMP",
           "address": "Castle and Temp, Tesmot Cl, Lekki, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1028,7 +1040,7 @@ const storeList = [
         "properties": {
           "name": "7. SITE: DAVINCI",
           "address": "Oba Adeyinka Oyekan Avenue, Ikoyi, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1040,7 +1052,7 @@ const storeList = [
         "properties": {
           "name": "8. SITE: MEGAMOUND",
           "address": "Megamound Estate Avenue, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1052,7 +1064,7 @@ const storeList = [
         "properties": {
           "name": "9. SITE: BANANA ISLAND (1)",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1064,7 +1076,7 @@ const storeList = [
         "properties": {
           "name": "10. SITE: DAN & DAN",
           "address": "Dan & Dan: Ajegunle Ojo, Ikoyi, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1076,7 +1088,7 @@ const storeList = [
         "properties": {
           "name": "11. SITE: ABISOGUN",
           "address": "Abisogun Road, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1086,9 +1098,9 @@ const storeList = [
           "coordinates": [3.446147, 6.431307] 
         },
         "properties": {
-          "name": "12. SITE: ZENKO",
-          "address": "Zenko Apartment, Simeon Akinlolu Crescent, Oniru, Lekki, Lagos State.",
-          "phone": "+2348078960000"          
+          "name": "12. SITE: ZENCO",
+          "address": "Zenco Apartment, Simeon Akinlolu Crescent, Oniru, Lekki, Lagos State.",
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1100,7 +1112,7 @@ const storeList = [
         "properties": {
           "name": "13. SITE: LOLADE",
           "address": "Beside Angels and Muse, Sumbo Jibowu Street, Ikoyi, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1112,7 +1124,7 @@ const storeList = [
         "properties": {
           "name": "14. BANANA ISLAND (2)",
           "address": "Mohjid_J5 Site: 203 Close, Banana Island, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1124,7 +1136,7 @@ const storeList = [
         "properties": {
           "name": "15. SITE: GERRAD",
           "address": "PM Site: Gerrad Road, Opposite The Gardens, Ikoji, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1136,7 +1148,7 @@ const storeList = [
         "properties": {
           "name": "16. SITE: OGUDU MAINLAND",
           "address": "Near HeyDen Petrol Station–Beside Chicken Republic, Ogudu, Lagos Mainland, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       },
       {
@@ -1148,7 +1160,7 @@ const storeList = [
         "properties": {
           "name": "17. SITE: ORANGE ISLAND",
           "address": "Orange Island Road, Near Chief Gbolahan Owolabi Street, Lekki–Ikate, Lagos State.",
-          "phone": "+2348078960000"          
+          "phone": "+2348105596815"          
         }
       }
 ]
