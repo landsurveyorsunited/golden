@@ -171,7 +171,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.299330157, 7.594389418]
+          "coordinates": [5.30007782, 7.593311875]
         },
         "properties": {
           "name": "15. 001T",
