@@ -3,10 +3,22 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [5.29928210, 7.59437722]
+        },
+        "properties": {
+          "name": "1. FPA 001T",
+          "address": "840011.6571mN,	753777.7817mE,	372.3263m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [5.25832440601903, 7.6108718185793]
         },
         "properties": {
-          "name": "1. FGPEKY036",
+          "name": "2. FGPEKY036",
           "address": "841810.329mN, 749248.739mE, 384.438m",
           "phone": "+2348105596815"          
         }
@@ -18,7 +30,7 @@ const storeList = [
           "coordinates": [5.29542461489063, 7.59531080851688]
         },
         "properties": {
-          "name": "2. FPA18S",
+          "name": "3. FPA18S",
           "address": "840110.2916mN, 753353.2064mE, 375.7479m",
           "phone": "+2348105596815"          
         }
@@ -30,7 +42,7 @@ const storeList = [
           "coordinates": [5.2951697653106, 7.59389532236252]
         },
         "properties": {
-          "name": "3. GPS 1806",
+          "name": "4. GPS 1806",
           "address": "839953.5393mN, 753325.9028mE,	375.2828m",
           "phone": "+2348105596815"          
         }
@@ -42,7 +54,7 @@ const storeList = [
           "coordinates": [5.29637049038158, 7.59281462693299]
         },
         "properties": {
-          "name": "4. FPA 015S",
+          "name": "5. FPA 015S",
           "address": "839902.9393mN, 753459.0863mE,	372.8291m",
           "phone": "+2348105596815"          
         }
@@ -54,7 +66,7 @@ const storeList = [
           "coordinates": [5.29895963574373, 7.59038567191276]
         },
         "properties": {
-          "name": "5. FPA 08S",
+          "name": "6. FPA 08S",
           "address": "839834.678mN,	753746.3325mE,	371.6256m",
           "phone": "+2348105596815"          
         }
@@ -66,7 +78,7 @@ const storeList = [
           "coordinates": [5.2982128590538, 7.59038962267618]
         },
         "properties": {
-          "name": "6. FPA 10S",
+          "name": "7. FPA 10S",
           "address": "839567.4636mN,	753663.8915mE,	373.3617m",
           "phone": "+2348105596815"          
         }
@@ -78,7 +90,7 @@ const storeList = [
           "coordinates": [5.30142257299561, 7.588965288607]
         },
         "properties": {
-          "name": "7. FPA 17S",
+          "name": "8. FPA 17S",
           "address": "839411.7605mN,	754019.0572mE,	362.2646m",
           "phone": "+2348105596815"          
         }
@@ -90,20 +102,8 @@ const storeList = [
           "coordinates": [5.30241348342097, 7.59108743298444]
         },
         "properties": {
-          "name": "8. FPA 04S",
+          "name": "9. FPA 04S",
           "address": "839647.1272mN,	754127.2002mE,	368.437m",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.29926381697986, 7.59439927562371]
-        },
-        "properties": {
-          "name": "9. FPA 001T",
-          "address": "840011.6906mN,	753777.5562mE,	372.3263m",
           "phone": "+2348105596815"          
         }
       },
@@ -162,23 +162,11 @@ const storeList = [
           "coordinates": [5.29461384881508, 7.59675700637484]
         },
         "properties": {
-          "name": "14. FPA1540",
+          "name": "14. FPA 1540",
           "address": "840269.8185mN,	753262.8575mE,	374.5378m",
           "phone": "+2348105596815"          
         }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.29928210, 7.59437722]
-        },
-        "properties": {
-          "name": "15. 001T",
-          "address": "840011.6571mN,	753777.7817mE,	372.3263m",
-          "phone": "+2348105596815"          
-        }
-      },
+      }
       {
         "type": "Feature",
         "geometry": {
