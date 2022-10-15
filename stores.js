@@ -243,11 +243,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.296663015, 7.595158082]
+          "coordinates": [5.295227708, 7.593655121]
         },
         "properties": {
-          "name": "21. FPA 003T (1)",
-          "address": "840096.515mN, 753488.199mE, 375.411m",
+          "name": "21. FPA 05S",
+          "address": "753330.6344mE, 839929.394mN,100m",
           "phone": "+2348105596815"          
         }
       },
@@ -255,11 +255,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.296518353, 7.5951893]
+          "coordinates": [5.296483476, 7.59338544]
         },
         "properties": {
-          "name": "22. FPA 003T (2)",
-          "address": "840099.884mN, 753472.2112mE, 367.814m",
+          "name": "22. FPA 06S",
+          "address": "753469.4189mE, 839900.292mN, 100m",
           "phone": "+2348105596815"          
         }
       },
@@ -267,11 +267,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.295569299, 7.595499903]
+          "coordinates": [5.298006759, 7.5930455]
         },
         "properties": {
-          "name": "23. FPA 004T (1)",
-          "address": "840133.693mN, 753367.2619mE, 100m",
+          "name": "23. FPA 07S",
+          "address": "753637.7762mE, 839863.574mN, 100m",
           "phone": "+2348105596815"          
         }
       },
@@ -279,11 +279,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.295551761, 7.595503162]
+          "coordinates": [5.298866425, 7.59175082]
         },
         "properties": {
-          "name": "24. FPA 004T (2)",
-          "address": "840134.043mN, 753365.324mE, 383.438m",
+          "name": "24. FPA 09S",
+          "address": "753733.4363mE, 839720.839mN, 100m",
           "phone": "+2348105596815"          
         }
       },
