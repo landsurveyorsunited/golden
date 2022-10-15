@@ -611,7 +611,7 @@ const storeList = [
           "phone": "+2348105596815"          
         }
       },
-{
+      {
         "type": "Feature",
         "geometry": {
           "type": "Point",
@@ -728,6 +728,54 @@ const storeList = [
         "properties": {
           "name": "61. AGST 006",
           "address": "753938.588mE, 840204.436mN, 379.135m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.302326573, 7.598662547]
+        },
+        "properties": {
+          "name": "62. AGST 007",
+          "address": "754111.347mE, 840487.554mN, 376.972m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.303082127, 7.599201723]
+        },
+        "properties": {
+          "name": "63. AGST 008",
+          "address": "754194.436mE, 840547.65mN, 377.494m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.303706513, 7.599877047]
+        },
+        "properties": {
+          "name": "64. AGST 009",
+          "address": "754262.965mE, 840622.732mN, 377.829m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.305182894, 7.599209244]
+        },
+        "properties": {
+          "name": "65. AGST 010",
+          "address": "754426.337mE, 840549.716mN, 381.384m",
           "phone": "+2348105596815"          
         }
       },
