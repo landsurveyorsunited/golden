@@ -50,8 +50,8 @@ const shopsLayer = L.geoJSON(storeList, {
         return L.shapeMarker(latlng, {
         shape: "triangle",
         rotation: 180,
-        fillcolor: "blue",
-        fillopacity: 0.7,
+        fillColor: "blue",
+        fillOpacity: 0.7,
         color: "blue",
         radius: "10"
 })
