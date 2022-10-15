@@ -1,4 +1,4 @@
-const myMap = L.map('map').setView([7.599272322717393, 5.3027765795680795], 15);  
+const myMap = L.map('map').setView([7.599272322717393, 5.3027765795680795], 14);  
 const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 const attribution =
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>&mdash;<a>GoldenHeart_007</a>'
