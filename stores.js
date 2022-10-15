@@ -223,7 +223,7 @@ const storeList = [
         },
         "properties": {
           "name": "19. FPA 15S",
-          "address": "	753110.6825mE, 840309.022mN, 100m",
+          "address": "753110.6825mE, 840309.022mN, 100m",
           "phone": "+2348105596815"          
         }
       },
@@ -247,7 +247,7 @@ const storeList = [
         },
         "properties": {
           "name": "21. FPA 05S",
-          "address": "753330.6344mE, 839929.394mN,100m",
+          "address": "753330.6344mE, 839929.394mN, 100m",
           "phone": "+2348105596815"          
         }
       },
@@ -380,6 +380,114 @@ const storeList = [
         "properties": {
           "name": "32. FPA 17S",
           "address": "754019.2731mE, 839411.618mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.298866873, 7.591750411]
+        },
+        "properties": {
+          "name": "33. FPA 002S",
+          "address": "753733.4859mE, 839720.794mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [753733.4859, 839720.794]
+        },
+        "properties": {
+          "name": "34. FPA 030S",
+          "address": "753766.6749mE, 839856.499mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.299409523, 7.593987698]
+        },
+        "properties": {
+          "name": "35. FPA 031S",
+          "address": "753792.0771mE, 839968.637mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.30034613, 7.593110111]
+        },
+        "properties": {
+          "name": "36. FPA 032S",
+          "address": "753895.9863mE, 839872.093mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.301823626, 7.591563613]
+        },
+        "properties": {
+          "name": "37. FPA 033S",
+          "address": "754059.9989mE, 839701.86mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.301627566, 7.590466655]
+        },
+        "properties": {
+          "name": "38. FPA 034S",
+          "address": "754038.9997mE, 839580.382mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.30120616, 7.588581391]
+        },
+        "properties": {
+          "name": "39. FPA 036S",
+          "address": "753993.5866mE, 839371.557mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.299654691, 7.588819598]
+        },
+        "properties": {
+          "name": "40. FPA 037S",
+          "address": "753822.1751mE, 839397.002mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.298009733, 7.589178784]
+        },
+        "properties": {
+          "name": "41. FPA 038S",
+          "address": "753640.3724mE, 839435.779mN, 100m",
           "phone": "+2348105596815"          
         }
       },
