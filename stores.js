@@ -6,7 +6,7 @@ const storeList = [
           "coordinates": [5.258340649, 7.610850078]
         },
         "properties": {
-          "name": "1. FGP EKY 036",
+          "name": "1. FGP EKT 036",
           "address": "841810.329mN, 749248.739mE, 384.438m",
           "phone": "+2348105596815"          
         }
@@ -603,11 +603,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.298009733, 7.589178784]
+          "coordinates": [5.300555939, 7.596071703]
         },
         "properties": {
-          "name": "41. FPA 038S",
-          "address": "753640.3724mE, 839435.779mN, 100m",
+          "name": "51. FPA 001P",
+          "address": "753917.4078mE, 840199.874mN, 371.9056m",
           "phone": "+2348105596815"          
         }
       },
@@ -615,11 +615,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.301344588, 7.589181833]
+          "coordinates": [5.290524642, 7.599232187]
         },
         "properties": {
-          "name": "42. FPA 040S",
-          "address": "754008.5155mE, 839438.068mN, 100m",
+          "name": "52. FPA 13S",
+          "address": "752808.1937mE, 840543.668mN, 373.1803m",
           "phone": "+2348105596815"          
         }
       },
@@ -627,11 +627,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.298264097, 7.589960499]
+          "coordinates": [5.293258821, 7.597097181]
         },
         "properties": {
-          "name": "43. FPA 041S",
-          "address": "753667.994mE, 839522.413mN, 100m",
+          "name": "53. FPA 015S",
+          "address": "753111.2703mE, 840309.058mN, 374.8307m",
           "phone": "+2348105596815"          
         }
       },
@@ -639,11 +639,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.295440855, 7.595289067]
+          "coordinates": [5.294531787, 7.595994893]
         },
         "properties": {
-          "name": "44. FPA 18S",
-          "address": "753353.2064mE, 840110.292mN, 375.7479m",
+          "name": "54. GPS 18/008 ",
+          "address": "753252.4398mE, 840187.85mN, 375.8631m",
           "phone": "+2348105596815"          
         }
       },
@@ -651,11 +651,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.295186005, 7.593873581]
+          "coordinates": [5.294630089, 7.596735265]
         },
         "properties": {
-          "name": "45. FPA 18/006",
-          "address": "753325.9028mE, 839953.539mN, 375.2828m",
+          "name": "55. FPA 1540",
+          "address": "753262.8575mE, 840269.819mN, 374.5378m",
           "phone": "+2348105596815"          
         }
       },
