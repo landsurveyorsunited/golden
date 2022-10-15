@@ -105,7 +105,7 @@ const overlayMaps = {
 const layerControl = L.control.layers (baseMaps, overlayMaps, {collapsed: false}).addTo(myMap);
 
 //North Arrow
-var north = L.control({position: "topright"});
+var north = L.control({position: "topleft"});
 north.onAdd = function(map) {
     var div = L.DomUtil.create("div", "info legend");
     div.innerHTML = '<img src="compass-icon.png">';
