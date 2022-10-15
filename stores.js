@@ -99,11 +99,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.30241348342097, 7.59108743298444]
+          "coordinates": [5.295569299, 7.595499903]
         },
         "properties": {
-          "name": "9. FPA 04S",
-          "address": "839647.1272mN,	754127.2002mE,	368.437m",
+          "name": "9. FPA 004T (1)",
+          "address": "840133.693mN, 753367.2619mE, 100m",
           "phone": "+2348105596815"          
         }
       },
@@ -111,11 +111,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.30053969921804, 7.59609344456245]
+          "coordinates": [5.295551761, 7.595503162]
         },
         "properties": {
-          "name": "10. FPA 001P",
-          "address": "840199.8744mN,	753917.4078mE,	371.9056m",
+          "name": "10. FPA 004T (2)",
+          "address": "840134.043mN, 753365.324mE, 383.438m",
           "phone": "+2348105596815"          
         }
       },
@@ -123,11 +123,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29050840136738, 7.59925392855223]
+          "coordinates": [5.30040813, 7.595854485]
         },
         "properties": {
-          "name": "11. FPA13S",
-          "address": "840543.6677mN,	752808.1937mE,	373.1803m",
+          "name": "11. STN 1",
+          "address": "753901.2186mE, 840175.756mN, 100m",
           "phone": "+2348105596815"          
         }
       },
@@ -135,11 +135,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.29324258104437, 7.59711892214131]
+          "coordinates": [5.299451531, 7.594565358]
         },
         "properties": {
-          "name": "12. FPA 15S",
-          "address": "840309.0576mN,	753111.2703mE,	374.8307m",
+          "name": "12. STN 2",
+          "address": "753796.3753mE, 840032.571mN, 100m",
           "phone": "+2348105596815"          
         }
       },
