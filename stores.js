@@ -587,6 +587,78 @@ const storeList = [
           "phone": "+2348105596815"          
         }
       },
+{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.302429723, 7.591065691]
+        },
+        "properties": {
+          "name": "50. FPA 04S",
+          "address": "754127.2002mE, 839647.127mN, 368.437m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.298009733, 7.589178784]
+        },
+        "properties": {
+          "name": "41. FPA 038S",
+          "address": "753640.3724mE, 839435.779mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.301344588, 7.589181833]
+        },
+        "properties": {
+          "name": "42. FPA 040S",
+          "address": "754008.5155mE, 839438.068mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.298264097, 7.589960499]
+        },
+        "properties": {
+          "name": "43. FPA 041S",
+          "address": "753667.994mE, 839522.413mN, 100m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.295440855, 7.595289067]
+        },
+        "properties": {
+          "name": "44. FPA 18S",
+          "address": "753353.2064mE, 840110.292mN, 375.7479m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.295186005, 7.593873581]
+        },
+        "properties": {
+          "name": "45. FPA 18/006",
+          "address": "753325.9028mE, 839953.539mN, 375.2828m",
+          "phone": "+2348105596815"          
+        }
+      },
       {
         "type": "Feature",
         "geometry": {
