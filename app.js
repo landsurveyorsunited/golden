@@ -52,7 +52,7 @@ const shopsLayer = L.geoJSON(storeList, {
         rotation: 180,
         fillcolor: "blue",
         fillopacity: 0.7,
-        colour: "blue",
+        color: "blue",
         radius: "10"
 })
 }
