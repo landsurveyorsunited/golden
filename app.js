@@ -51,9 +51,9 @@ const shopsLayer = L.geoJSON(storeList, {
         shape: "triangle",
         rotation: 180,
         fillColor: "blue",
-        fillOpacity: 0.5,
+        fillOpacity: 0.6,
         color: "blue",
-        radius: "7"
+        radius: "6"
 })
 }
 });shopsLayer.addTo(myMap);
