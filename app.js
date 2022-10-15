@@ -49,9 +49,9 @@ const shopsLayer = L.geoJSON(storeList, {
     pointToLayer: function(feature, latlng) {
         return L.shapeMarker(latlng, {
         shape: "triangle",
-        rotation: " 180",
+        rotation: 180,
         fillcolor: "blue",
-        fillopacity: " 0.7",
+        fillopacity: 0.7,
         colour: "blue",
         radius: "10"
 })
