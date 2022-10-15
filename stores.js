@@ -587,7 +587,7 @@ const storeList = [
           "phone": "+2348105596815"          
         }
       },
-{
+      {
         "type": "Feature",
         "geometry": {
           "type": "Point",
@@ -656,6 +656,78 @@ const storeList = [
         "properties": {
           "name": "55. FPA 1540",
           "address": "753262.8575mE, 840269.819mN, 374.5378m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.292996269, 7.597305593]
+        },
+        "properties": {
+          "name": "56. AGST 001",
+          "address": "753082.165mE, 840331.962mN, 383.044m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.294583691, 7.596671358]
+        },
+        "properties": {
+          "name": "57. AGST 002",
+          "address": "753257.773mE, 840262.721mN, 383.155m",
+          "phone": "+2348105596815"          
+        }
+      },
+{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.294540563, 7.595802996]
+        },
+        "properties": {
+          "name": "58. AGST 003",
+          "address": "753253.521mE, 840166.624mN, 384.187m",
+          "phone": "+2348105596815"          
+        }
+      },
+{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.296688907, 7.595277852]
+        },
+        "properties": {
+          "name": "59. AGST 004",
+          "address": "753490.987mE, 840109.781mN, 382.314m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.299073114, 7.594419108]
+        },
+        "properties": {
+          "name": "60. AGST 005",
+          "address": "753754.687mE, 840016.169mN, 380.33m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.300748018, 7.596111916]
+        },
+        "properties": {
+          "name": "61. AGST 006",
+          "address": "753938.588mE, 840204.436mN, 379.135m",
           "phone": "+2348105596815"          
         }
       },
