@@ -1083,6 +1083,78 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [5.295211772, 7.593809077]
+        },
+        "properties": {
+          "name": "91. GPS 18/005",
+          "address": "753328.785mE, 839946.418mN, 382.082m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29518654, 7.593881782]
+        },
+        "properties": {
+          "name": "92. GPS 18/006",
+          "address": "753325.957mE, 839954.447mN, 379.088m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.295036702, 7.59393668]
+        },
+        "properties": {
+          "name": "93. SUG 07/A2",
+          "address": "753309.384mE, 839960.433mN, 380.483m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.29561822, 7.595329828]
+        },
+        "properties": {
+          "name": "94. GPS 18/007",
+          "address": "753372.762mE, 840114.905mN, 381.218m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.298972815, 7.593011589]
+        },
+        "properties": {
+          "name": "95. GPS 18/008",
+          "address": "753744.441mE, 839860.388mN, 376.244m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.298991921, 7.592868713]
+        },
+        "properties": {
+          "name": "96. GPS 18/009",
+          "address": "753746.634mE, 839844.592mN, 376.018m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [7.3986, 9.0765]
         },
         "properties": {
