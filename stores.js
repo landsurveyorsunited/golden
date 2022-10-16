@@ -1239,6 +1239,30 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [5.296390584, 7.593416669]
+        },
+        "properties": {
+          "name": "104. CONTROL 9531 OBS",
+          "address": "753459.146mE, 839903.693mN, 375.912m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.296390263, 7.593409195]
+        },
+        "properties": {
+          "name": "105. CONTROL 9531",
+          "address": "753459.115mE, 839902.866mN, 372.682m",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [7.3986, 9.0765]
         },
         "properties": {
