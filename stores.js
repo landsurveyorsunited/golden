@@ -2022,8 +2022,8 @@ const storeList = [
           "coordinates": [3.233625, 6.559527]
         },
         "properties": {
-          "name": "ABODE",
-          "address": "Flat 23, Shorinola Street, off Modina Road, Igando/Egan, Lagos State.",
+          "name": "HOME",
+          "address": "Jordan Gardens: Flat 23, Shorinola Street, off Modina Road, Igando/Egan, Alimosho, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2034,7 +2034,7 @@ const storeList = [
           "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "CAMP",
+          "name": "OFFICE",
           "address": "Black Diamond Engineering Company Limited: Ladejola's Court,13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State.",
           "phone": "+2348105596815"          
         }
