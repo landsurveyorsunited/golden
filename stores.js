@@ -2242,7 +2242,18 @@ const storeList = [
           "address": "Orange Island Road, Near Chief Gbolahan Owolabi Street, Lekki–Ikate, Lagos State.",
           "phone": "+2348105596815"          
         }
-      }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.431242, 6.450329]
+        },
+        "properties": {
+          "name": "18. SITE: OLUMEGBON",
+          "address": "7, Olumegbon Road, Near Power Holding Company of Nigeria (PHCN) Lagos State.",
+          "phone": "+2348105596815"          
+        }
 ]
 
 
