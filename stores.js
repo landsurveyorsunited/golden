@@ -2254,6 +2254,7 @@ const storeList = [
           "address": "7, Olumegbon Road, Near Power Holding Company of Nigeria (PHCN) Lagos State.",
           "phone": "+2348105596815"          
         }
+    },
 ]
 
 
