@@ -53,7 +53,7 @@ const shopsLayer = L.geoJSON(storeList, {
         fillColor: "blue",
         fillOpacity: 0.7,
         color: "blue",
-        radius: "2"
+        radius: "4"
 })
 }
 });shopsLayer.addTo(myMap);
