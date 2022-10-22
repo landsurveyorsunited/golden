@@ -2254,7 +2254,31 @@ const storeList = [
           "address": "7, Olumegbon Road, Near Power Holding Company of Nigeria (PHCN) Lagos State.",
           "phone": "+2348105596815"          
         }
-    },
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.415913, 6.443447]
+        },
+        "properties": {
+          "name": "19. SITE: AUNTY AYO",
+          "address": "THE ADDRESS HOMES: Aunty Ayo Manuwa Park, SW Ikoyi, Near Security and Allied Technology Limited, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.424494, 6.456450]
+        },
+        "properties": {
+          "name": "20. SITE: OBA ADEYINKA OYEKAN",
+          "address": "Oba Adeyinka Oyekan Avenue, Opposite War College, Ikoyi Lagos State.",
+          "phone": "+2348105596815"          
+        }
+    }
 ]
 
 
