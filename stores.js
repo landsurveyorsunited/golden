@@ -2278,6 +2278,30 @@ const storeList = [
           "address": "Oba Adeyinka Oyekan Avenue, Opposite War College, Ikoyi Lagos State.",
           "phone": "+2348105596815"          
         }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.670167, 6.465028]
+        },
+        "properties": {
+          "name": "21. SITE: ABIJO",
+          "address": "Near OandO Filling Station Abijo, Lekki—Epe Express Way, Ibeju—Lekki Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.665668, 6.471933]
+        },
+        "properties": {
+          "name": "22. SITE: AMITY ESTATE",
+          "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
     }
 ]
 
