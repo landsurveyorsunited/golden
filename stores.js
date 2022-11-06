@@ -2103,7 +2103,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.480145, 6.458887]
+          "coordinates": [3.479994, 6.458637]
         },
         "properties": {
           "name": "6. SITE: CASTLE TEMP",
@@ -2235,7 +2235,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.477426, 6.462765]
+          "coordinates": [3.493341, 6.468810]
         },
         "properties": {
           "name": "17. SITE: ORANGE ISLAND",
