@@ -1998,7 +1998,7 @@ const storeList = [
           "coordinates": [6.984463, 4.864476]
         },
         "properties": {
-          "name": "ECK TEMPLE",
+          "name": "PORT HARCOURT ECK TEMPLE",
           "address": "Temple of Eck Eck Centre, Obi Wali Road, Trans-Amadi, Rumuigbo, Port Harcourt.   templeofeckeckcentres@eckankarnigeria.org  ESEZI ISAAC OBIOLOR",
           "phone": "+2348033132175"          
         }
@@ -2010,8 +2010,8 @@ const storeList = [
           "coordinates": [5.161886, 7.243825]
         },
         "properties": {
-          "name": "ECK CENTRE",
-          "address": "No 1, Odufuwa Lane, Ajipowo Community, off Ondo Road, Akure Ondo State.  akureeckcentres@eckankarnigeria.org  AARINOLA AKINSETE",
+          "name": "AKURE ECK CENTRE",
+          "address": "No 1, Odufuwa Lane, Ajipowo Community, off Ondo Road, Akure, Ondo State.  akureeckcentres@eckankarnigeria.org  AARINOLA AKINSETE",
           "phone": "+2348189117171"          
         }
       },
@@ -2039,15 +2039,15 @@ const storeList = [
           "phone": "+2348105596815"          
         }
       },
-      {
+{
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.475347,6.447654]
+          "coordinates": [3.448884, 6.447349]
         },
         "properties": {
-          "name": "1. SITE: BUKA HUT",
-          "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
+          "name": "1. MILVERTON SITE",
+          "address": "THE ADDRESS HOMES: Milverton Road, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2058,8 +2058,8 @@ const storeList = [
           "coordinates": [3.522151, 6.477366]
         },
         "properties": {
-          "name": "2. SITE: GRACEFIELD ISLAND",
-          "address": "The Helium Apartments and Boulevard: Gracefield Island(The Phoenix), Lekki, Lagos State.",
+          "name": "2. GRACEFIELD ISLAND SITE",
+          "address": "THE HELIUM APARTMENTS AND BOULEVARD: Gracefield Island (The Phoenix) Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2070,20 +2070,8 @@ const storeList = [
           "coordinates": [3.444992, 6.451758]
         },
         "properties": {
-          "name": "3. SITE: RUXTON",
-          "address": "The Address Homes: Ruxton Road, Lekki, Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.448884, 6.447349]
-        },
-        "properties": {
-          "name": "4. SITE: MILVERTON",
-          "address": "The Address Homes: Milverton Road, Lekki, Lagos State.",
+          "name": "3. RUXTON SITE",
+          "address": "THE ADDRESS HOMES: Ruxton Road, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2094,8 +2082,8 @@ const storeList = [
           "coordinates": [3.466965, 6.447235]
         },
         "properties": {
-          "name": "5. SITE:ADMIRALTY",
-          "address": "The Hallmark: Admiralty Way, Lekki, Lagos State.",
+          "name": "4. ADMIRALTY SITE",
+          "address": "THE HALLMARK: Admiralty Way, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2106,44 +2094,8 @@ const storeList = [
           "coordinates": [3.479994, 6.458637]
         },
         "properties": {
-          "name": "6. SITE: CASTLE TEMP",
-          "address": "Castle and Temp, Tesmot Cl, Lekki, Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.424445, 6.456236] 
-        },
-        "properties": {
-          "name": "7. SITE: DAVINCI",
-          "address": "Oba Adeyinka Oyekan Avenue, Ikoyi, Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.561373, 6.436801] 
-        },
-        "properties": {
-          "name": "8. SITE: MEGAMOUND",
-          "address": "Megamound Estate Avenue, Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.453880, 6.464622] 
-        },
-        "properties": {
-          "name": "9. SITE: BANANA ISLAND (1)",
-          "address": "Near 5th Avenue, Banana Island, Lagos State.",
+          "name": "5. CASTLE & TEMP SITE",
+          "address": "Castle and Temp Drive, Opposite Noah Court, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2154,20 +2106,8 @@ const storeList = [
           "coordinates": [3.450971, 6.461783] 
         },
         "properties": {
-          "name": "10. SITE: DAN & DAN",
-          "address": "Dan & Dan: Ajegunle Ojo, Ikoyi, Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.449308, 6.428272] 
-        },
-        "properties": {
-          "name": "11. SITE: ABISOGUN",
-          "address": "Abisogun Road, Lagos State.",
+          "name": "6. DAN & DAN SITE",
+          "address": "THE ADDRESS HOMES: Banana Island Road, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2178,8 +2118,8 @@ const storeList = [
           "coordinates": [3.446147, 6.431307] 
         },
         "properties": {
-          "name": "12. SITE: ZENCO",
-          "address": "Zenco Apartment, Simeon Akinlolu Crescent, Oniru, Lekki, Lagos State.",
+          "name": "7. ZENCO SITE",
+          "address": "ZENCO APARTMENTS:  Simeon Akinlolu Crescent, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2190,7 +2130,7 @@ const storeList = [
           "coordinates": [3.418739, 6.443521]
         },
         "properties": {
-          "name": "13. SITE: LOLADE",
+          "name": "8. ENGR. LOLADE SITE",
           "address": "Beside Angels and Muse, Sumbo Jibowu Street, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2202,8 +2142,8 @@ const storeList = [
           "coordinates": [3.453789, 6.461418] 
         },
         "properties": {
-          "name": "14. BANANA ISLAND (2)",
-          "address": "Mohjid_J5 Site: 203 Close, Banana Island, Lagos State.",
+          "name": "9. BANANA ISLAND SITE",
+          "address": "Block J Plot 5, 203 Close, Banana Island, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2214,20 +2154,8 @@ const storeList = [
           "coordinates": [3.432890, 6.458985]
         },
         "properties": {
-          "name": "15. SITE: GERRAD",
-          "address": "PM Site: Gerrad Road, Opposite The Gardens, Ikoji, Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.392443, 6.580892]
-        },
-        "properties": {
-          "name": "16. SITE: OGUDU MAINLAND",
-          "address": "Near HeyDen Petrol Station–Beside Chicken Republic, Ogudu, Lagos Mainland, Lagos State.",
+          "name": "10. GERRAD SITE",
+          "address": "Gerrad Road, Opposite The Gardens, Ikoji, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2238,8 +2166,8 @@ const storeList = [
           "coordinates": [3.493341, 6.468810]
         },
         "properties": {
-          "name": "17. SITE: ORANGE ISLAND",
-          "address": "Orange Island Road, Near Chief Gbolahan Owolabi Street, Lekki–Ikate, Lagos State.",
+          "name": "11. ORANGE ISLAND SITE",
+          "address": "Orange Island Road, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2250,8 +2178,8 @@ const storeList = [
           "coordinates": [3.431242, 6.450329]
         },
         "properties": {
-          "name": "18. SITE: OLUMEGBON",
-          "address": "7, Olumegbon Road, Near Power Holding Company of Nigeria (PHCN) Lagos State.",
+          "name": "12. OLUMEGBON SITE",
+          "address": "Olumegbon Road, Near Power Holding Company of Nigeria (PHCN) Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2262,7 +2190,7 @@ const storeList = [
           "coordinates": [3.415913, 6.443447]
         },
         "properties": {
-          "name": "19. SITE: AUNTY AYO",
+          "name": "13. AUNTY AYO SITE",
           "address": "THE ADDRESS HOMES: Aunty Ayo Manuwa Park, SW Ikoyi, Near Security and Allied Technology Limited, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2274,33 +2202,9 @@ const storeList = [
           "coordinates": [3.424494, 6.456450]
         },
         "properties": {
-          "name": "20. SITE: OBA ADEYINKA OYEKAN",
+          "name": "14. OBA ADEYINKA OYEKAN SITE",
           "address": "Oba Adeyinka Oyekan Avenue, Opposite War College, Ikoyi Lagos State.",
-          "phone": "+2348105596815"          
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.670167, 6.465028]
-        },
-        "properties": {
-          "name": "21. SITE: ABIJO",
-          "address": "Near OandO Filling Station Abijo, Lekki—Epe Express Way, Ibeju—Lekki Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.665668, 6.471933]
-        },
-        "properties": {
-          "name": "22. SITE: AMITY ESTATE",
-          "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
-          "phone": "+2348105596815"          
+          "phone": "+2348105596815"
         }
     }
 ]
