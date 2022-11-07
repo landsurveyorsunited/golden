@@ -2211,10 +2211,22 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [3.443983, 6.433195]
+        },
+        "properties": {
+          "name": "15. TECNOIL  SITE",
+          "address": "ZENCO APPARTMENTS: Opposite Tecnoil, Simeon Akinlolu Crescent, VI, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [3.392443, 6.580892]
         },
         "properties": {
-          "name": "15. OGUDU—MAINLAND SITE",
+          "name": "16. OGUDU—MAINLAND SITE",
           "address": "Near HeyDen Petrol Station–Beside Chicken Republic, Ogudu, Lagos Mainland, Lagos State.",
           "phone": "+2348172233550"          
         }
@@ -2226,7 +2238,7 @@ const storeList = [
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
-          "name": "16. ABISOGUN SITE",
+          "name": "17. ABISOGUN SITE",
           "address": "Abisogun Road, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2238,7 +2250,7 @@ const storeList = [
           "coordinates": [3.424445, 6.456236] 
         },
         "properties": {
-          "name": "17. SITE: DAVINCI",
+          "name": "18. DAVINCI SITE",
           "address": "Oba Adeyinka Oyekan Avenue, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2250,7 +2262,7 @@ const storeList = [
           "coordinates": [3.561373, 6.436801] 
         },
         "properties": {
-          "name": "18. SITE: MEGAMOUND",
+          "name": "19. MEGAMOUND SITE",
           "address": "Megamound Estate Avenue, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2262,7 +2274,7 @@ const storeList = [
           "coordinates": [3.453880, 6.464622] 
         },
         "properties": {
-          "name": "19. SITE: BANANA ISLAND (1)",
+          "name": "20. BANANA ISLAND SITE",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2274,7 +2286,7 @@ const storeList = [
           "coordinates": [3.475347,6.447654]
         },
         "properties": {
-          "name": "20. SITE: BUKA HUT",
+          "name": "21. BUKA HUT SITE",
           "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2286,7 +2298,7 @@ const storeList = [
           "coordinates": [3.671731, 6.469830]
         },
         "properties": {
-          "name": "21. ABIJO SITE",
+          "name": "22. ABIJO SITE",
           "address": "Near OandO Filling Station, Abijo, Lekki—Epe Express Way, Ibeju—Lekki Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2298,7 +2310,7 @@ const storeList = [
           "coordinates": [3.665668, 6.471933]
         },
         "properties": {
-          "name": "22. AMITY ESTATE SITE",
+          "name": "23. AMITY ESTATE SITE",
           "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
