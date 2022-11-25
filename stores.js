@@ -3,23 +3,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [5.258340649, 7.610850078]
-        },
-        "properties": {
-          "name": "1. FGP EKT 036",
-          "address": "841810.329mN, 749248.739mE, 384.438m",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
           "coordinates": [5.299276204, 7.594384201]
         },
         "properties": {
-          "name": "2. FPA 001T (1)",
-          "address": "840012.426mN, 753777.127mE, 374.726m",
+          "name": "1. FPA 001T",
+          "address": "Road 1 Roundabout: 840012.426mN, 753777.127mE, 374.726m",
           "phone": "+2348105596815"          
         }
       },
@@ -30,7 +18,7 @@ const storeList = [
           "coordinates": [5.299280057, 7.594377534]
         },
         "properties": {
-          "name": "3. FPA 001T (2)",
+          "name": "2. FPA 001T (2)",
           "address": "840011.691mN, 753777.5562mE, 372.3263m",
           "phone": "+2348105596815"          
         }
@@ -42,11 +30,24 @@ const storeList = [
           "coordinates": [5.299286653, 7.594371425]
         },
         "properties": {
-          "name": "4. FPA 001T (3)",
+          "name": "3. FPA 001T (3)",
           "address": "840011.019mN, 753778.288mE, 365.5148m",
           "phone": "+2348105596815"          
         }
       },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.258340649, 7.610850078]
+        },
+        "properties": {
+          "name": "4. FGP EKT 036",
+          "address": "841810.329mN, 749248.739mE, 384.438m",
+          "phone": "+2348105596815"          
+        }
+      },
+      
       {
         "type": "Feature",
         "geometry": {
@@ -2262,7 +2263,7 @@ const storeList = [
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
-          "name": "A. ABISOGUN SITE",
+          "name": "A1. ABISOGUN SITE",
           "address": "Abisogun Road, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2274,7 +2275,7 @@ const storeList = [
           "coordinates": [3.449884, 6.458454] 
         },
         "properties": {
-          "name": "B. AMLAD SITE",
+          "name": "B2. AMLAD SITE",
           "address": "Along Banana Island Road, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2286,7 +2287,7 @@ const storeList = [
           "coordinates": [3.561373, 6.436801] 
         },
         "properties": {
-          "name": "C. MEGAMOUND SITE",
+          "name": "C3. MEGAMOUND SITE",
           "address": "Megamound Estate Avenue, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2298,7 +2299,7 @@ const storeList = [
           "coordinates": [3.453880, 6.464622] 
         },
         "properties": {
-          "name": "D. BANANA ISLAND SITE",
+          "name": "D4. BANANA ISLAND SITE",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348105596815"
       }
@@ -2310,7 +2311,7 @@ const storeList = [
           "coordinates": [3.475347,6.447654]
         },
         "properties": {
-          "name": "E. BUKA HUT SITE",
+          "name": "E5. BUKA HUT SITE",
           "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2322,7 +2323,7 @@ const storeList = [
           "coordinates": [3.671731, 6.469830]
         },
         "properties": {
-          "name": "F. ABIJO SITE",
+          "name": "F6. ABIJO SITE",
           "address": "Near OandO Filling Station, Abijo, Lekki—Epe Express Way, Ibeju—Lekki Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2334,7 +2335,7 @@ const storeList = [
           "coordinates": [3.665668, 6.471933]
         },
         "properties": {
-          "name": "G. AMITY ESTATE SITE",
+          "name": "G7. AMITY ESTATE SITE",
           "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2343,10 +2344,10 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.440186, 6.463852] 
+          "coordinates": [3.411182, 6.460775] 
         },
         "properties": {
-          "name": "H. OSBORNE FORESHORE SITE",
+          "name": "H8. OSBORNE FORESHORE SITE",
           "address": "Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
