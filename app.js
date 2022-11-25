@@ -122,11 +122,19 @@ L.geolet({ position: 'topright' }).addTo(myMap);
 L.control.locate({ position: 'topleft'}).addTo(myMap);
 
 //Realtime Geolocation I
-L.geolet({ position: 'bottomright' }).addTo(myMap);
+L.geolet({ position: 'bottomleft' }).addTo(myMap);
 
 //Realtime Geolocation II
-L.control.locate({ position: 'bottomleft'}).addTo(myMap);
+L.control.locate({ position: 'bottomright'}).addTo(myMap);
 
+//Leaflet Scalebar
+L.control.betterscale({
+    position: "bottomleft",
+    maxWidth: 150,
+    imperial: false,
+    metric: true,
+    updateWhenIdle: !1
+}).addTo(myMap);
 
 
 
