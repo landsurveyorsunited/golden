@@ -2206,7 +2206,32 @@ const storeList = [
           "address": "Oba Adeyinka Oyekan Avenue, Opposite War College, Ikoyi Lagos State.",
           "phone": "+2348172233550"
         }
-    }         
+    },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.443983, 6.433195]
+        },
+        "properties": {
+          "name": "15. TECNOIL  SITE",
+          "address": "ZENCO APPARTMENTS: Opposite Tecnoil, Simeon Akinlolu Crescent, VI, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.392443, 6.580892]
+        },
+        "properties": {
+          "name": "16. OGUDU—MAINLAND SITE",
+          "address": "Near HeyDen Petrol Station–Beside Chicken Republic, Ogudu, Lagos Mainland, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+            
 ]
 
 
