@@ -2022,7 +2022,7 @@ const storeList = [
           "coordinates": [3.233625, 6.559527]
         },
         "properties": {
-          "name": "HOME",
+          "name": "OHM",
           "address": "Jordan Gardens: Flat 23, Shorinola Street, off Modina Road, Igando/Egan, Alimosho, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2034,11 +2034,179 @@ const storeList = [
           "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "OFFICE",
-          "address": "Black Diamond Engineering Company Limited: Ladejola's Court,13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa LGA, Lagos State.",
+          "name": "BDEL",
+          "address": "BLACK DIAMOND ENGINEERING LIMITED: Ladejola Court: No 13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa L.G.A, Lagos State. info@blackdiamondeng.com",
           "phone": "+2348172233550"          
         }
-      },              
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.448884, 6.447349]
+        },
+        "properties": {
+          "name": "1. MILVERTON",
+          "address": "THE ADDRESS HOMES: Milverton Road, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.522151, 6.477366]
+        },
+        "properties": {
+          "name": "2. GRACEFIELD ISLAND",
+          "address": "THE HELIUM APARTMENTS AND BOULEVARD: Gracefield Island (The Phoenix) Lekki, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.444992, 6.451758]
+        },
+        "properties": {
+          "name": "3. RUXTON",
+          "address": "THE ADDRESS HOMES: Ruxton Road, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.466965, 6.447235]
+        },
+        "properties": {
+          "name": "4. ADMIRALTY",
+          "address": "THE HALLMARK: Admiralty Way, Lekki, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.479994, 6.458637]
+        },
+        "properties": {
+          "name": "5. CASTLE & TEMP",
+          "address": "Castle and Temp Drive, Opposite Noah Court, Lekki, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.450971, 6.461783] 
+        },
+        "properties": {
+          "name": "6. DAN & DAN",
+          "address": "THE ADDRESS HOMES: Banana Island Road, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.446147, 6.431307] 
+        },
+        "properties": {
+          "name": "7. ZENCO",
+          "address": "ZENCO APARTMENTS:  Simeon Akinlolu Crescent, Lekki, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.418739, 6.443521]
+        },
+        "properties": {
+          "name": "8. BTTECH LOLADE",
+          "address": "Beside Angels and Muse, Sumbo Jibowu Street, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.453789, 6.461418] 
+        },
+        "properties": {
+          "name": "9. BANANA ISLAND",
+          "address": "Block J Plot 5, 203 Close, Banana Island, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.432890, 6.458985]
+        },
+        "properties": {
+          "name": "10. GERRAD",
+          "address": "Gerrad Road, Opposite The Gardens, Ikoji, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.493341, 6.468810]
+        },
+        "properties": {
+          "name": "11. ORANGE ISLAND",
+          "address": "Orange Island Road, Lekki, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.431242, 6.450329]
+        },
+        "properties": {
+          "name": "12. OLUMEGBON",
+          "address": "Olumegbon Road, Near Power Holding Company of Nigeria (PHCN) Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.415913, 6.443447]
+        },
+        "properties": {
+          "name": "13. AUNTY AYO",
+          "address": "THE ADDRESS HOMES: Aunty Ayo Manuwa Park, SW Ikoyi, Near Security and Allied Technology Limited, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.424494, 6.456450]
+        },
+        "properties": {
+          "name": "14. OBA ADEYINKA OYEKAN",
+          "address": "Oba Adeyinka Oyekan Avenue, Opposite War College, Ikoyi Lagos State.",
+          "phone": "+2348172233550"
+        }
+    }         
 ]
 
 
