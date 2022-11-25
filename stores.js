@@ -2235,6 +2235,30 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [3.440186, 6.463852] 
+        },
+        "properties": {
+          "name": "17. PARKVIEW ESTATE",
+          "address": "7–11, Prof. Jubril Aminu Street, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.499365, 6.445877] 
+        },
+        "properties": {
+          "name": "18. NICON TOWN",
+          "address": "5th Street, Nicon Town, Lekki, Lagos State.",
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
