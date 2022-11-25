@@ -116,11 +116,16 @@ L.control.betterscale({
 }).addTo(myMap);
 
 //Realtime Geolocation I
-L.geolet({ position: 'topleft' }).addTo(myMap);
+L.geolet({ position: 'topright' }).addTo(myMap);
 
 //Realtime Geolocation II
-L.control.locate({ position: 'topright'}).addTo(myMap);
+L.control.locate({ position: 'topleft'}).addTo(myMap);
 
+//Realtime Geolocation I
+L.geolet({ position: 'bottomright' }).addTo(myMap);
+
+//Realtime Geolocation II
+L.control.locate({ position: 'bottomleft'}).addTo(myMap);
 
 
 
