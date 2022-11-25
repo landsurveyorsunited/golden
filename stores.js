@@ -2271,11 +2271,11 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.424445, 6.456236] 
+          "coordinates": [3.449884, 6.458454] 
         },
         "properties": {
-          "name": "B. DAVINCI SITE",
-          "address": "Oba Adeyinka Oyekan Avenue, Ikoyi, Lagos State.",
+          "name": "B. AMLAD SITE",
+          "address": "Along Banana Island Road, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2301,7 +2301,7 @@ const storeList = [
           "name": "D. BANANA ISLAND SITE",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348105596815"
-}
+      }
       },
       {
         "type": "Feature",
@@ -2338,7 +2338,19 @@ const storeList = [
           "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
-    }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.440186, 6.463852] 
+        },
+        "properties": {
+          "name": "H. OSBORNE FORESHORE SITE",
+          "address": "Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      }
 ]
 
 
