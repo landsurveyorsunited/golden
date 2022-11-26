@@ -1996,30 +1996,6 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [6.984463, 4.864476]
-        },
-        "properties": {
-          "name": "PORT HARCOURT ECK TEMPLE",
-          "address": "Temple of Eck Eck Centre, Obi Wali Road, Trans-Amadi, Rumuigbo, Port Harcourt.   templeofeckeckcentres@eckankarnigeria.org  ESEZI ISAAC OBIOLOR",
-          "phone": "+2348033132175"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.161886, 7.243825]
-        },
-        "properties": {
-          "name": "AKURE ECK CENTRE",
-          "address": "No 1, Odufuwa Lane, Ajipowo Community, off Ondo Road, Akure, Ondo State.  akureeckcentres@eckankarnigeria.org  AARINOLA AKINSETE",
-          "phone": "+2348189117171"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
           "coordinates": [3.233625, 6.559527]
         },
         "properties": {
@@ -2035,8 +2011,8 @@ const storeList = [
           "coordinates": [3.458820, 6.430789] 
         },
         "properties": {
-          "name": "BDEL",
-          "address": "BLACK DIAMOND ENGINEERING LIMITED: Ladejola Court: No 13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa L.G.A, Lagos State. info@blackdiamondeng.com",
+          "name": "HOPHIX",
+          "address": "BLACK DIAMOND ENGINEERING LIMITED. Ladejola Court: No 13a, Ayo Babatunde Crescent, off Oniru New Market Road, Lekki Phase 1, Eti-Osa L.G.A, Lagos State. info@blackdiamondeng.com",
           "phone": "+2348172233550"          
         }
       },
