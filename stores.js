@@ -2252,7 +2252,7 @@ const storeList = [
         },
         "properties": {
           "name": "20. ISUJEH",
-          "address": "Isujeh Street, Nicon Town, Lekki, Lagos State.",
+          "address": "Isujeh Street, Palm Spring Estate, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2384,7 +2384,7 @@ const storeList = [
         },
         "properties": {
           "name": "I. ISUJEH SITE",
-          "address": "Ishujeh Street, Beside Huios School, Nicon Town, Lekki, Lagos State.",
+          "address": "Ishujeh Street, Beside Huios School, Palm Spring Estate, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
