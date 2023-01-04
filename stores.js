@@ -2255,7 +2255,7 @@ const storeList = [
           "address": "Isujeh Street, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
-      }
+      },
       {
         "type": "Feature",
         "geometry": {
