@@ -2280,6 +2280,54 @@ const storeList = [
           "phone": "+2348105596815"
       }
       },
+       {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.475347,6.447654]
+        },
+        "properties": {
+          "name": "E5. BUKA HUT SITE",
+          "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.671731, 6.469830]
+        },
+        "properties": {
+          "name": "F6. ABIJO SITE",
+          "address": "Near OandO Filling Station, Abijo, Lekki—Epe Express Way, Ibeju—Lekki Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.665668, 6.471933]
+        },
+        "properties": {
+          "name": "G7. AMITY ESTATE SITE",
+          "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.411182, 6.460775] 
+        },
+        "properties": {
+          "name": "H8. OSBORNE FORESHORE SITE",
+          "address": "Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      }
 ]
 
 
