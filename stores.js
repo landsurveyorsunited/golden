@@ -2272,6 +2272,18 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [3.469167, 6.445256] 
+        },
+        "properties": {
+          "name": "22. OSBORNE ESTATE",
+          "address": "2nd Street Osborne Foreshore Estate 1, Ikoyi, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
