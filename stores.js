@@ -47,7 +47,6 @@ const storeList = [
           "phone": "+2348105596815"          
         }
       },
-      
       {
         "type": "Feature",
         "geometry": {
@@ -2284,7 +2283,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3. 407724, 6.428621] 
+          "coordinates": [3.407724, 6.428621] 
         },
         "properties": {
           "name": "23. CORAL",
@@ -2350,7 +2349,7 @@ const storeList = [
           "name": "D. BANANA ISLAND SITE",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348105596815"
-      }
+        }
       },
        {
         "type": "Feature",
@@ -2455,8 +2454,8 @@ const storeList = [
           "coordinates": [3.417485, 6.431927] 
         },
         "properties": {
-          "name": "M. MUSA YAR'ADUA SITE",
-          "address": "Musa Yar'Adua Street, Victoria Island, Lagos State.",
+          "name": "M. MUSA YARADUA SITE",
+          "address": "Musa YarAdua Street, Victoria Island, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
