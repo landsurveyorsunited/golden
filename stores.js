@@ -2231,7 +2231,55 @@ const storeList = [
           "address": "5th Street, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348172233550"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.449308, 6.428272] 
+        },
+        "properties": {
+          "name": "A1. ABISOGUN SITE",
+          "address": "Abisogun Road, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.449884, 6.458454] 
+        },
+        "properties": {
+          "name": "B2. AMLAD SITE",
+          "address": "Along Banana Island Road, Ikoyi, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.561373, 6.436801] 
+        },
+        "properties": {
+          "name": "C3. MEGAMOUND SITE",
+          "address": "Megamound Estate Avenue, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.453880, 6.464622] 
+        },
+        "properties": {
+          "name": "D4. BANANA ISLAND SITE",
+          "address": "Near 5th Avenue, Banana Island, Lagos State.",
+          "phone": "+2348105596815"
       }
+      },
 ]
 
 
