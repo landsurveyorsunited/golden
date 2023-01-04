@@ -2248,6 +2248,18 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [3.496051, 6.443594] 
+        },
+        "properties": {
+          "name": "20. ISUJEH",
+          "address": "Isujeh Street, Nicon Town, Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      }
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
