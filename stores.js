@@ -2363,6 +2363,18 @@ const storeList = [
           "address": "Road 16, Ikota GRA, Beside Mews Estate, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.411182, 6.460775] 
+        },
+        "properties": {
+          "name": "K. GBANGBALA SITE 1",
+          "address": "Gbangbala Street, Nicon Town, Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
       }
 ]
 
