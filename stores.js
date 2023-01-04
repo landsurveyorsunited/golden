@@ -2423,6 +2423,18 @@ const storeList = [
           "address": "Park water View Estate Drive, Nicon Town, Ikate Itedo Road, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.417485, 6.431927] 
+        },
+        "properties": {
+          "name": "M. MUSA YAR'ADUA SITE",
+          "address": "Musa Yar'Adua Street, Victoria Island, Lagos State.",
+          "phone": "+2348105596815"          
+        }
       }
 ]
 
