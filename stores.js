@@ -2387,6 +2387,18 @@ const storeList = [
           "address": "Gbangbala Street, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.469167, 6.445256] 
+        },
+        "properties": {
+          "name": "L. LEKKI SITE",
+          "address": "Kayode Animashaun Street, Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
       }
 ]
 
