@@ -2272,7 +2272,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.469167, 6.445256] 
+          "coordinates": [3.420480, 6.465416] 
         },
         "properties": {
           "name": "22. OSBORNE ESTATE",
@@ -2408,7 +2408,19 @@ const storeList = [
         },
         "properties": {
           "name": "K. GBANGBALA SITE 1",
-          "address": "Gbangbala Street, Nicon Town, Lekki, Lagos State.",
+          "address": "Gbangbala Street, Nicon Town, Ikate Itedo Road, Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.485420, 6.437567] 
+        },
+        "properties": {
+          "name": "L. GBANGBALA SITE 2",
+          "address": "Park water View Estate Drive, Nicon Town, Ikate Itedo Road, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       }
