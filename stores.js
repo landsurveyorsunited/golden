@@ -2239,7 +2239,7 @@ const storeList = [
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
-          "name": "A1. ABISOGUN SITE",
+          "name": "A. ABISOGUN SITE",
           "address": "Abisogun Road, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2251,7 +2251,7 @@ const storeList = [
           "coordinates": [3.449884, 6.458454] 
         },
         "properties": {
-          "name": "B2. AMLAD SITE",
+          "name": "B. AMLAD SITE",
           "address": "Along Banana Island Road, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2263,7 +2263,7 @@ const storeList = [
           "coordinates": [3.561373, 6.436801] 
         },
         "properties": {
-          "name": "C3. MEGAMOUND SITE",
+          "name": "C. MEGAMOUND SITE",
           "address": "Megamound Estate Avenue, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2275,7 +2275,7 @@ const storeList = [
           "coordinates": [3.453880, 6.464622] 
         },
         "properties": {
-          "name": "D4. BANANA ISLAND SITE",
+          "name": "D. BANANA ISLAND SITE",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348105596815"
       }
@@ -2287,7 +2287,7 @@ const storeList = [
           "coordinates": [3.475347,6.447654]
         },
         "properties": {
-          "name": "E5. BUKA HUT SITE",
+          "name": "E. BUKA HUT SITE",
           "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2299,7 +2299,7 @@ const storeList = [
           "coordinates": [3.671731, 6.469830]
         },
         "properties": {
-          "name": "F6. ABIJO SITE",
+          "name": "F. ABIJO SITE",
           "address": "Near OandO Filling Station, Abijo, Lekki—Epe Express Way, Ibeju—Lekki Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2311,7 +2311,7 @@ const storeList = [
           "coordinates": [3.665668, 6.471933]
         },
         "properties": {
-          "name": "G7. AMITY ESTATE SITE",
+          "name": "G. AMITY ESTATE SITE",
           "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2323,8 +2323,20 @@ const storeList = [
           "coordinates": [3.411182, 6.460775] 
         },
         "properties": {
-          "name": "H8. OSBORNE FORESHORE SITE",
+          "name": "H. OSBORNE FORESHORE SITE",
           "address": "Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.496653, 6.443607] 
+        },
+        "properties": {
+          "name": "I. ISUJEH SITE",
+          "address": "Ishujeh Street, Beside Huios School, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       }
