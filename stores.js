@@ -2339,6 +2339,18 @@ const storeList = [
           "address": "Ishujeh Street, Beside Huios School, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.557020, 6.445088] 
+        },
+        "properties": {
+          "name": "J. IKOTA SITE",
+          "address": "Road 16, Ikota GRA, Beside Mews Estate, Lekki, Lagos State.",
+          "phone": "+2348105596815"          
+        }
       }
 ]
 
