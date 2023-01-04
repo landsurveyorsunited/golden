@@ -2284,6 +2284,30 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [3. 407724, 6.428621] 
+        },
+        "properties": {
+          "name": "23. CORAL",
+          "address": "No 1, Louis Solomon Close, Victoria Island, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.423180, 6.438113] 
+        },
+        "properties": {
+          "name": "24. OZUMBA ",
+          "address": "Akin Adesola Street, Victoria Island, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
@@ -2433,6 +2457,30 @@ const storeList = [
         "properties": {
           "name": "M. MUSA YAR'ADUA SITE",
           "address": "Musa Yar'Adua Street, Victoria Island, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.408834, 6.427791] 
+        },
+        "properties": {
+          "name": "N. KNIGHT SITE",
+          "address": "Louis Solomon Drive, Off Ahmadu Bello Way, Victoria Island, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.719960, 6.457961] 
+        },
+        "properties": {
+          "name": "O. 25COLUMNS SITE",
+          "address": "Aruna Street Community, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       }
