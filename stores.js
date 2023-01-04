@@ -2236,6 +2236,18 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [3.415181, 6.463102] 
+        },
+        "properties": {
+          "name": "19. OSBORNE FORESHORE",
+          "address": "Royal Palm Drive, Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
