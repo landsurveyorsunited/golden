@@ -139,6 +139,7 @@ L.control.betterscale({
 //Users Adding Coordinates
 L.control.coordinates({
 	position:"topleft", //optional default "topleft"
+        collapsible:"false"
 	decimals:4, //optional default 4
 	decimalSeperator:".", //optional default "."
 	labelTemplateLat:"Latitude: {y}", //optional default "Lat: {y}"
