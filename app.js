@@ -67,14 +67,14 @@ function flyToStore(store) {
 
 //Google Satellite_Map Initialization
 const googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
-attribution: 'Tiles &copy; <a>Google Map Data, 2022</a>',
+attribution: 'Tiles &copy; <a>Google Map Data, 2023</a>',
 maxZoom: 20,
 subdomains:['mt0','mt1','mt2','mt3']
 }).addTo(myMap);
 
 //Google Street_Map Initialization
 const googleStreets = L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
-attribution: 'Tiles &copy; <a>Google Map Data, 2022</a>',  
+attribution: 'Tiles &copy; <a>Google Map Data, 2023</a>',  
 maxZoom: 20,
 subdomains:['mt0','mt1','mt2','mt3']
 }).addTo(myMap);
@@ -95,7 +95,7 @@ const baseMaps = {
 const overlayMaps = {
 "Open Street Map": OSM
 };
-const layerControl = L.control.layers (baseMaps, overlayMaps, {collapsed: false}).addTo(myMap);
+const layerControl = L.control.layers (baseMaps, overlayMaps, {collapsed: true}).addTo(myMap);
 
 //North Arrow
 var north = L.control({position: "topleft"});
