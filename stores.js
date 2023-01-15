@@ -2239,8 +2239,8 @@ const storeList = [
         },
         "properties": {
           "name": "19. OSBORNE FORESHORE",
-          "address": "Royal Palm Drive, Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
-          "phone": "+2348105596815"          
+          "address": "Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
         }
       },
       {
@@ -2252,7 +2252,7 @@ const storeList = [
         "properties": {
           "name": "20. ISUJEH",
           "address": "Isujeh Street, Palm Spring Estate, Nicon Town, Lekki, Lagos State.",
-          "phone": "+2348105596815"          
+          "phone": "+2348172233550"          
         }
       },
       {
@@ -2264,7 +2264,7 @@ const storeList = [
         "properties": {
           "name": "21. COLEMAN",
           "address": "Kayode Animashaun Street, Lekki, Lagos State.",
-          "phone": "+2348105596815"          
+          "phone": "+2348172233550"          
         }
       },
       {
@@ -2276,7 +2276,7 @@ const storeList = [
         "properties": {
           "name": "22. OSBORNE ESTATE",
           "address": "2nd Street Osborne Foreshore Estate 1, Ikoyi, Lagos State.",
-          "phone": "+2348105596815"          
+          "phone": "+2348172233550"          
         }
       },
       {
@@ -2288,7 +2288,7 @@ const storeList = [
         "properties": {
           "name": "23. CORAL",
           "address": "No 1, Louis Solomon Close, Victoria Island, Lagos State.",
-          "phone": "+2348105596815"          
+          "phone": "+2348172233550"          
         }
       },
       {
@@ -2300,7 +2300,19 @@ const storeList = [
         "properties": {
           "name": "24. OZUMBA ",
           "address": "Akin Adesola Street, Victoria Island, Lagos State.",
-          "phone": "+2348105596815"          
+          "phone": "+2348172233550"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.411182, 6.460775] 
+        },
+        "properties": {
+          "name": "25. RIVERIE OSBORNE",
+          "address": "Osborne Estate Phase 2, Ikoyi, Lagos State.",
+          "phone": "+2348172233550"          
         }
       },
       {
@@ -2310,7 +2322,7 @@ const storeList = [
           "coordinates": [3.449308, 6.428272] 
         },
         "properties": {
-          "name": "A. ABISOGUN SITE",
+          "name": "I. ABISOGUN",
           "address": "Abisogun Road, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2322,7 +2334,7 @@ const storeList = [
           "coordinates": [3.449884, 6.458454] 
         },
         "properties": {
-          "name": "B. AMLAD SITE",
+          "name": "II. AMLAD",
           "address": "Along Banana Island Road, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2334,7 +2346,7 @@ const storeList = [
           "coordinates": [3.561373, 6.436801] 
         },
         "properties": {
-          "name": "C. MEGAMOUND SITE",
+          "name": "III. MEGAMOUND",
           "address": "Megamound Estate Avenue, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2346,7 +2358,7 @@ const storeList = [
           "coordinates": [3.453880, 6.464622] 
         },
         "properties": {
-          "name": "D. BANANA ISLAND SITE",
+          "name": "IV. BANANA ISLAND",
           "address": "Near 5th Avenue, Banana Island, Lagos State.",
           "phone": "+2348105596815"
         }
@@ -2358,7 +2370,7 @@ const storeList = [
           "coordinates": [3.475347,6.447654]
         },
         "properties": {
-          "name": "E. BUKA HUT SITE",
+          "name": "V. BUKA HUT",
           "address": "Beside Buka Hut, Near Jumia Pickup Station, Admiralty Way, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2370,7 +2382,7 @@ const storeList = [
           "coordinates": [3.671731, 6.469830]
         },
         "properties": {
-          "name": "F. ABIJO SITE",
+          "name": "VI. ABIJO",
           "address": "Near OandO Filling Station, Abijo, Lekki—Epe Express Way, Ibeju—Lekki Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2382,7 +2394,7 @@ const storeList = [
           "coordinates": [3.665668, 6.471933]
         },
         "properties": {
-          "name": "G. AMITY ESTATE SITE",
+          "name": "VII. AMITY ESTATE",
           "address": "Amity Estate, Near Fisco Estate Abijo, Lekki—Epe Expressway, Ibeju—Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2394,7 +2406,7 @@ const storeList = [
           "coordinates": [3.411182, 6.460775] 
         },
         "properties": {
-          "name": "H. OSBORNE FORESHORE SITE",
+          "name": "VIII. OSBORNE FORESHORE",
           "address": "Osborne Foreshore Estate Phase 2, Ikoyi, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2406,7 +2418,7 @@ const storeList = [
           "coordinates": [3.496653, 6.443607] 
         },
         "properties": {
-          "name": "I. ISUJEH SITE",
+          "name": "IX. ISUJEH",
           "address": "Ishujeh Street, Beside Huios School, Palm Spring Estate, Nicon Town, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2418,20 +2430,8 @@ const storeList = [
           "coordinates": [3.557020, 6.445088] 
         },
         "properties": {
-          "name": "J. IKOTA SITE",
+          "name": "X. IKOTA",
           "address": "Road 16, Ikota GRA, Beside Mews Estate, Lekki, Lagos State.",
-          "phone": "+2348105596815"          
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [3.411182, 6.460775] 
-        },
-        "properties": {
-          "name": "K. GBANGBALA SITE 1",
-          "address": "Gbangbala Street, Nicon Town, Ikate Itedo Road, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       },
@@ -2442,7 +2442,7 @@ const storeList = [
           "coordinates": [3.485420, 6.437567] 
         },
         "properties": {
-          "name": "L. GBANGBALA SITE 2",
+          "name": "XI. GBANGBALA",
           "address": "Park water View Estate Drive, Nicon Town, Ikate Itedo Road, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2454,7 +2454,7 @@ const storeList = [
           "coordinates": [3.417485, 6.431927] 
         },
         "properties": {
-          "name": "M. MUSA YARADUA SITE",
+          "name": "XII. MUSA YARADUA",
           "address": "Musa YarAdua Street, Victoria Island, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2466,7 +2466,7 @@ const storeList = [
           "coordinates": [3.408834, 6.427791] 
         },
         "properties": {
-          "name": "N. KNIGHT SITE",
+          "name": "XIII. KNIGHT",
           "address": "Louis Solomon Drive, Off Ahmadu Bello Way, Victoria Island, Lagos State.",
           "phone": "+2348105596815"          
         }
@@ -2478,17 +2478,9 @@ const storeList = [
           "coordinates": [3.719960, 6.457961] 
         },
         "properties": {
-          "name": "O. 25COLUMNS SITE",
-          "address": "Aruna Street Community, Lekki, Lagos State.",
+          "name": "XIV. 25COLUMNS",
+          "address": "Aroud Aruna Street Community, Lekki, Lagos State.",
           "phone": "+2348105596815"          
         }
       }
 ]
-
-
-
-
-
-
-
-
